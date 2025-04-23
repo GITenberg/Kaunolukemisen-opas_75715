@@ -1,0 +1,35 @@
+_repo: Kaunolukemisen-opas_75715
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Avellan, Kaarola
+    aliases:
+    - Avellan, Kaarola Alexandra
+    - Avellan, Alexandra Karola
+    birthdate: 1853
+    deathdate: 1930
+    gutenberg_agent_id: '58115'
+    url: http://www.gutenberg.org/2009/agents/58115
+    wikipedia: https://fi.wikipedia.org/wiki/Kaarola_Avellan
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75715'
+language: fi
+pgterms:marc905: 20250227002812avellan
+pgterms:marc906: '1901'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bSuomalaisen Kirjallisuuden Seura, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elocution'
+- !lcsh 'Finnish language'
+- !lcsh 'Oral reading'
+- !lcc 'PH'
+- GITenberg
+title: Kaunolukemisen opas
+url: http://www.gutenberg.org/ebooks/75715
