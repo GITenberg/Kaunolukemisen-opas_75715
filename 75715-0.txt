@@ -1,0 +1,3776 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75715 ***
+
+language: Finnish
+
+
+
+
+KAUNOLUKEMISEN OPAS
+
+Toimittanut
+
+Kaarola Avellan
+
+
+
+
+
+Helsingissä,
+Suom. Kirjall. Seuran Kirjapainon Osakeyhtiö,
+1901.
+
+
+
+
+SISÄLLYS:
+
+I. Kaunoluvun yleisiä sääntöjä.
+   Puhe-elimet.
+   a. Kurkunpää
+   b. Äänitorvi
+
+II. A. Oppi sanaosien ja sanojen äänenpainosta.
+    B. Kvantitatiivisen painon jako.
+    C. Loogillisen painon jako.
+    D. Katsahdus loogillisen painon yleisiin sääntöihin.
+    E. Vastakohtaisten käsitteiden paino.
+    F. Perusääntä alempana.
+
+III. Kvalitatiivinen paino.
+  A. Symboolinen paino.
+  B. Eetillinen paino.
+
+IV. Kielen rytmiikki.
+    Tahti-oppi.
+    Paussi-oppi.
+    Hengitys.
+
+V. Teknillinen puoli.
+   Lukemisen sointu ja puhtaus.
+   Äänen voima ja kestävyys.
+   Portamento.
+   Volubiliteetti.
+   Äänen laajuus ja taipuvaisuus.
+   Huulten ja kielen harjoitus.
+
+VI. Kaunolukemisen henkinen sisällys.
+    Huomautuksia erilaisten tunteiden esittämisestä.
+    Runojen lausunnosta.
+    Eri runolajit.
+    Draaman esitys.
+    Kuinka draamassa esiintyvä kertomus on lausuttava.
+
+
+
+
+Niinä monina vuosina, joina olen toiminut kaunolukemisen opettajana,
+olen yhä kipeämmin kaivannut kaunoluvun oppikirjaa. Siksi olen vuosien
+kuluessa saavuttamani kokemuksen nojalla valmistanut tämän oppaan
+kaunoluvussa.
+
+Koska kaunoluvun taito vielä on meillä aivan vähän kehittynyt, olen
+pitänyt käytännöllisimpänä kosketella ainoastaan sen tärkeimpiä puolia.
+Loogillinen paino on esitetty O. Svahn'in mukaan, kvalitatiivinen paino
+ranskalaisten ja saksalaisten lähteitten mukaan sekä oman kokemukseni
+nojalla.
+
+Suositan kirjaani maamme opettajistolle, näyttämölle aikoville,
+lausuntoklubeille ja kaikille niille kansalaisille, jotka suomenkieltä
+harrastavat.
+
+Professori E. Setälälle ja lehtori B.F. Godenhjelmille, jotka
+neuvoillansa ovat minua auttaneet, sekä herra A. Slottelle, joka on
+teostani tarkastanut, lausun täten nöyrimmät kiitokseni.
+
+Kaarola Avellan.
+
+
+
+
+
+I.
+
+KAUNOLUVUN YLEISIÄ SÄÄNTÖJÄ.
+
+
+Mitä on kaunoluku?
+
+Kaunoluku on taito luonnollisesti, sointuisasti, oikeakielisesti ja
+kuvailevasti kertoa joko omia taikka muitten kirjallisesti esitettyjä
+ajatuksia ja tunteita. Siis kaikki pääasiallisimmat säännöt, jotka
+koskevat kaunolukua, koskevat myöskin kaunopuhetta.
+
+
+
+Kaunoluvun tarkoitus.
+
+Kirjallisten teosten esittäminen on onnistunutta eli tarkoitustaan
+vastaavaa, jos se kuulijassa voi herättää samat ajatukset ja tunteet,
+jotka tekijässä ovat vaikuttaneet teoksen syntymisen.
+
+
+
+Kaunoluvun yleiset ja sisälliset edellytykset.
+
+Voidaksemme saavuttaa yllä viitattua tarkoitusta, vaaditaan ensinnäkin
+kyky käsittää kappaleen henkistä sisällystä sekä sen kielellisiä
+ilmaisumuotoja, ja toiseksi vaaditaan kyky äänenvaihdoksilla tarkasti
+ilmaista ajatusten ja tunteiden vaihdoksia. (Jos esim. hukkumaisillaan
+oleva ihminen sanoisi läsnäoleville välinpitämättömänä äänellä eli niin
+sanotulla koneellisella lukuäänellä: »auttakaa», niin hän varmaankin
+jäisi avutta, sillä läsnäolijat tuskin häntä ymmärtäisivät.) Kauneinkin
+runokappale kadottaa vaikutuksensa ellei sitä lausuta sisällystä
+vastaavalla äänenpainolla ja äänenvivahduksilla.
+
+Kaunolukemisen taidossa on niinmuodoin _materialinen ja henkinen_
+puoli, koska se perustuu sekä fyysillisen välikappaleen, _äänen_, että
+henkisen välikappaleen, _ajatuksen_, harjoittamiseen.
+
+Teknillinen puoli perustuu kahteen kohtaan: _ääneen ja lausuntoon_,
+ääniin ja sanoihin.
+
+Äänen ilmaisemista varten on meillä puhekoneisto. Sen tärkeimmät elimet
+ovat: Kurkunpää ja äänitorvi.
+
+
+
+a) Kurkunpää.
+
+Kurkunpäässä ovat elimistön tärkeimmät osat, nim.
+
+1. Ääni-jänteet, 4 joustavaa jänterejännettä, jotka käyvät kurkunpään
+poikitse edestä taaksepäin. Alimmat ovat varsinaiset äänijänteet,
+ylimpiä sanotaan _valejänteiksi_.
+
+2. Ääni-rako, joka sijaitsee oikean- ja vasemmanpuolisen varsinaisen
+äänijänteen välissä.
+
+3. Kurkunkansi, liikkuva levy, joka toisinaan, esim. niellessä, laskeuu
+ääniraon peitoksi.
+
+
+
+b) Äänitorvi.
+
+Kurkunpään yläpuolella alkaa nielu, joka johtaa eteenpäin suuaukkoon,
+ylöspäin nenän onttoihin. Suuaukossa on seuraavat puheäänien syntymistä
+varten välttämättömät osat: _posket, kieli, hampaat ja ikenet, kitalaki
+ja huulet_.
+
+1. Poskien muodostelu vaikuttaa tuntuvasti äänen muodostukseen yleensä,
+mutta erittäinkin n.s. pyöreitten vokaalien ääntämiseen.
+
+2. Kieli on kuitenkin edellisiä elimiä tärkeämpi. Erittäin hienon
+jäntererakennuksensa tähden voipi kieli asettua lukemattomiin eri
+asentoihin ja niinmuodoin synnyttää rajattoman määrän erillaisia
+puheääniä.
+
+3. Tärkeät ovat myöskin huulet, jotka liikkuvaisuudellaan suuresti
+vaikuttavat äänen muodostukseen. Huulten pitentämistä sanomme
+_venyttämiseksi_, esim. e, niiden lyhentämistä _supistamiseksi_, esim.
+o, ja niiden pitentämistä ulospäin _ulostyöntämiseksi_, esim. y. Huulia
+voipi tietysti venyttää, supistaa sekä työntää ulos joko suuremmassa
+tahi vähemmässä määrässä, esim. ä-e-i; o-ö; u-y.
+
+Paitsi näitä edellä mainitulta puhe-elimiä tarvitaan puheäänien
+muodostumista varten; hengityselimien, keuhkojen ja henkitorven kautta
+kulkevaa _ilmavirtaa_.
+
+Tämän ilmavirran muodostelemista kurkunpään ja äänitorven
+erilaisten liikkeitten avulla nimitetään äänen muodostamiseksi eli
+_artikulatiooniksi_.
+
+Äänirako ja äänijänteet voidaan asettaa joko _passiiviseen_ tahi
+_aktiiviseen_ tilaan.
+
+Passiivisessa tilassa on äänirako avonaisena ja äänijänteet
+liikkumattomat. Sitä ääntä, joka syntyy ilmavirran kulkiessa
+passiivisen kurkkuasennon kautta, sanomme uloshenkäykseksi eli
+_aspiratiooniksi_ ja sisäänhenkäykseksi eli _respiratiooniksi_.
+
+Tämä siis ei ole mitään puheääntä, koska se ei ole artikuleerattua
+eli muodostettua, s.o. koska ilmavirta kulkee aivan muodostelematta
+puhe-elimistön kautta.
+
+Kuiskaus saadaan syntymään kun äänirako on melkein suljettuna eikä
+ilmavirta pane äänijänteitä värähtelemään. Kun äänirako on suljettuna,
+kulkee ilmavirta _valejanteiden_ kautta, jotka siis ovat varsin tärkeät
+kuiskausääntä muodostettaessa.
+
+Kuuluva ääni eli _ääntäminen_ syntyy siten, että ilmavirta panee
+äänijänteet värähtelemään. Äänen _korkoasteet_ riippuvat äänijänteiden
+pituudesta, leveydestä ja jännityksestä. Äänen _voima_ taas riippuu
+osittain ilmavirran voimallisuudesta ja paljoudesta, osittain niiden
+puhe-elimien vahvuudesta, jotka sitä muodostelevat.
+
+Olemme siis tulleet ääniin, jotka riippuen eri äänilaaduistaan jaetaan
+vokaaleihin ja konsonantteihin.
+
+Vokaalit (selvästi kuuluvat kielen äänet) muodostuvat äänitorvessa ja
+saavat vapaasti kulkea toisten puhe-elimien kautta ilman että niitä
+katkaistaan.
+
+Konsonantit (korisevat ja äänettömät kielen äänteet, jotka ainoastaan
+vokaalien avulla voivat selvästi ääntyä) syntyvät siten, että ilmavirta
+joko kerrassaan katkaistaan (kuten g, k, b, p, t, d,) tahi puserretaan
+kulkemaan puhe-elimien muodostamaa tietä, joka on niin ahdas ettei
+selvää ääntä voi syntyä (kuten m, n, 1, r, s, h).
+
+Vokaalien ja konsonanttien yhtyessä muodostuvat tavut ja sanat.
+Konsonantit ovat niin sanoaksemme sanan luurakennus (runko), sillä ne
+antavat oikeastaan sanalle ryhtiä ja vankkuutta. Jokaisen, joka tahtoo
+oppia selvästi ja sointuvasti lukemaan, tulee siis oppia voimakkaasti
+ja nuorteasti artikuleeraamaan. Mitä vokaaleihin tulee, rajoittuvat
+säännökset niiden suhteen siihen, että niitä tulee ääntää niin kuin
+yleinen kirjakieleksi elpynyt ääntämistapa vaatii, murteellista
+ääntämistä välttäen. Kaikki äänet ovat lausuttavat niin sointuisasti ja
+säntillisesti kuin suinkin.
+
+Harvoin ihmisellä on synnynnäisenä lahjana täydellisesti hyväksyttävä
+artikulatiooni. Toisen artikulatiooni on _kova_, toisen taas _pehmeä,
+veltto_ ja _voimaton_ tahi _kumea_. Ainoastaan ahkera harjoitus voi
+poistaa nämä viat. Artikulatioonin arvo kaunolukuun nähden on siis
+erittäin suuri, sillä artikulatiooni on tehokkain keino, jonka avulla
+lukemiseen saadaan selvyyttä, voimaa ja pontevuutta. Heikkokin ääni
+voi hyvän artikulatioonin kautta täyttää tehtävänsä, jopa silloinkin
+kuin tulee puhua suurelle kuulijakunnalle. Äänettä ei voi kukaan
+puhua, mutta ääni semmoisenaan, vaikkapa hyväkin, on riittämätön
+hyvään lukemiseen ja puhumiseen, ellei artikulatiooni sitä sopivaksi
+muodostele. (Löytyy esim. ihmisiä, joiden runsas äänivarasto on
+suorastaan haitaksi, kun eivät artikulatioonin avulla voi hallita
+ja muodostella ääniä, — _ääni_ syöpi _sanan_ ja vokaalit nielevät
+konsonantit.)
+
+Huomattakoon siis, että äänen paino alkaa kohta yksityisten äänien
+lausumisella. Sillä, kuten tiedämme, jaetaan vokaalit avonaisiin,
+puoli-avonaisiin ja suljettuihin. Konsonantit jaetaan myöskin kolmeen
+lajiin: kurkkuääniin, huuliääniin ja kieliääniin, joita äännettäessä
+aseena käytetään kieltä.
+
+
+
+
+II. A. OPPI SANANOSIEN JA SANOJEN ÄÄNENPAINOSTA.
+
+
+1. Painon käsite ja tarkoitus.
+
+Painolla tarkoitetaan tässä sitä erityistä _kvantitatiivista_ eli
+laajuuden mukaista ja _kvalitatiivista_, sisällyksen mukaista, painoa
+ihmisäänessä, jonka kautta yhtä tahi useampaa kielen ääntä lausutaan,
+siten erottamalla niitä yhdestä tahi useammasta muusta äänestä.
+
+
+
+2. Painon ilmaisemistavat.
+
+Äänen pituus (lausumis-aika). Äänen voima ja korko. Äänen asema ja
+ääniaste (intervalli). Ääniväri eli äänen laatu: äänen sisällinen
+luonne erityisen tunteen eli mielenliikutuksen ilmaisijana. Edelliset
+kolme painon ilmaisemistapaa ovat kvantitatiivisia, neljäs on
+kvalitatiivinen.
+
+
+
+3. Painon esineet.
+
+Painolla voipi olla esineenä: joko erityinen kielen-ääni sinänsä taikka
+jonkun sanan osana, esim. sanassa _viimeinen_ tulee pääpaino _vii_
+-tavulle. Lauseessa: »Kaikki ihmiset ovat elimellisiä olentoja», tulee
+pääpaino sanoille _kaikki_ ja _elimellisiä_. Lauseissa: »Sanotaan että
+kaikki hyvät ihmiset ovat onnellisia», saapi toinen eli objektiivilause
+pääpainon. Tämä paino on kvantitatiivinen, mutta sen ohessa voidaan
+joku erityinen sana eli lause-yhdiste lausua erillaisella painolla
+siihen tunteeseen katsoen, jota se ilmaisee, jolloin paino on myös
+kvalitatiivinen. (Niinpä lausutaan huudahdussanat »voi», »oi»
+erinäisillä kvalitatiivisella painolla, sen mukaan mitä tunnetta
+huudahdus ilmaisee, esim. iloa, surua, kaipausta.)
+
+
+
+4. Kvantitatiivisen äänenpainon mittamäärä eli perusääni.
+
+Lausuttava ääni, tavu tahi sana on perusääntä _ylempänä_, jos sillä
+on korkeampi eli suurempi paino kuin perusäänellä, mutta perusääntä
+_alempana_, jos sillä on matalampi eli vähempi paino kuin perusäänellä.
+
+Ääni, tavu tahi sana, joka on perusääntä ylempänä, on sentähden
+_painollinen_, mutta perusääntä alempana oleva tavu tahi sana on
+_painoton_.
+
+
+
+5. Kvantitatiivisen painon vaihtelevaisuus.
+
+Jokainen yksinkertainen kielen ääni, joka ilmaistaan esim. äänen
+merkeillä a, e, ö, b, k, r, s, lausutaan yhdenvertaisella pituudella
+ja painolla ja käyttämällä yhdenvertaista ääniasemaa ja ääniastetta.
+Mutta kun nämä yksinkertaiset äänet yhdistetään keskenään, niin ne
+käyvät moninaisten muutosten alaisiksi. Esim. _on_-sanassa on n -ääni
+perusääntä alempana, _onni_-sanassa taas on n -ääni voimakkain,
+perusääntä ylempänä. Samaten on tavujen laita esim. rämeinen, suuri.
+
+Mutta vielä moninaisemman vaihettelun alaisina ovat sanat lauseen
+osina. Esim. »Tytön olisi pitänyt panna kirjansa järjestyksessä
+kaappiin». Sana _tytön_ jääpi perusäänelliseen asemaan, mutta sanat
+»kirjansa järjestyksessä kaappiin», saavat kaikki korkeamman painon,
+jota vastoin sanat »olisi pitänyt» jäävät painottomiksi, laskeuvat siis
+perusääntä alemma.
+
+
+
+
+II B. KVANTITATIIVISEN PAINON JAKO.
+
+
+a. Etymoloogillinen eli se paino, joka sanalla on semmoisenaan sanan
+sisällisen rakenteen, muodostuksen ja muodon puolesta.
+
+b. Loogillinen eli järkijohtoinen paino; se paino, jonka sana saa
+lauseen osana ollen, sen merkityksen mukaan, mikä sillä lauseen
+ajatusjohdossa on.
+
+
+
+1. Loogillisen painon käsite ja tarkoitus.
+
+Loogillinen eli järkijohtoinen paino on niinmuodoin se paino, joka
+tulee sanalle lauseen osana ollen, ja kokonaiselle lauseellekin,
+sen ollen pitemmän ajatusjakson erityisempää merkitystä ilmaisevana
+osana. Loogillisen painon tarkoituksena on siis, erityistä merkitystä
+sisältävien osain (sanain ja lauseiden) ilmaisemisella saattaa
+esityksen sisällys kuulijalle selväksi ja helppotajuiseksi.
+
+
+
+2. Loogillisen painon asteet.
+
+Sanat lauseissa ja tavut sanoissa ovat, kuten nyt olemme huomanneet,
+painon suhteen erillaisten painoasteiden alaisina, ne kun voivat olla
+joko perus-äänessä, perusääntä ylempänä taikka perusääntä alempana,
+siis joko painollisia tahi painottomia.
+
+
+
+3. Sanojen yli liukuminen.
+
+Sitä lausumistapaa, jolla yhtä tahi useampaa peräkkäin olevaa
+_painotonta_ sanaa lausutaan, nimitämme _liukumiseksi_. Esim. Hänen
+olisi pitänyt olla kotona.
+
+Huom.! Oikea asianmukainen liukuminen on kaunoluvun osaamiseen nähden
+aivan yhtä tärkeä kuin oikean painonkin asettaminen. Sillä sen kautta
+voipi varsinaista käsitystä sisältävien sanojen paino selvemmin
+esiintyä. Kun apusanat liukuen lausutaan, esiintyvät ymmärre- eli
+painolliset sanat siis selvemmin, joten ajatusjuoksu luettavassa
+kappaleessa käy huomattavammaksi ja itse puhe tai lausuminen sujuvaksi
+ja kauniiksi.
+
+Lukemisen huonouteen ja epäselvyyteen on tavallisesti syynä sekä
+vaillinainen ja virheellinen painon asettaminen että myöskin huoleton
+liukuminen.
+
+Ymmärresanat ovat: nominit (nimikot), verbit (tekosanat) ja adverbit
+(määräsanat).
+
+Apusanat ovat: apuverbit (aputehdiköt), prepositioonit (esisanat),
+postpositioonit (jälkisanat), konjunktioonit (sidesanat), pers.
+pronominit (pers. asemosanat).
+
+
+
+
+II C. LOOGILLISEN PAINON JAKO.
+
+
+a. Määräyspaino eli se paino, jonka ymmärre-sana, saapi sen aseman
+perusteella, mikä sillä lauseessa on.
+
+b. Vastakohtaisuutta ilmaiseva paino, joka ilmaisee että toisen lauseen
+sisällys on suorana vastakohtana toisen lauseen sisällykselle taikka
+suorastaan kumoaa toisen lauseen sisällyksen.
+
+
+
+1. Peruste, jonka mukaan määräyksille paino annetaan.
+
+Koska määräykset tekevät määrättävän esineen taikka asian siksi, mikä
+se on, niin täytyy siis _määräys-sanan_ saada suurempi paino kuin itse
+määrättävän. Esim. Tuo _musta_ pöytä.
+
+Tästä seuraa, että jos määrääjällä itsellään on määrääjänsä, niin saapi
+se suurimman painon. Esim. Tuo erittäin _taitavasti_ maalattu taulu.
+
+
+
+2. Määräysasteet.
+
+Sitä määräystä, joka on pääsanaa lähinnä, nimitämme 1:sen asteen
+määräykseksi, ja sitä määräys-sanaa taas, joka on 1:sen asteen sanaa
+lähinnä, nimitämme 2:sen asteen määräykseksi j.n.e.
+
+Erilaatuiset tai samanlaatuiset määräykset, jotka ovat pääsanaa yhtä
+likellä, ovat aina yhden-arvoiset ja saavat saman asteen painon. Esim.
+_suuret, mustat_ hevoset.
+
+Muist. Määräyslause saapi aina korkeamman painon ja ääniaseman, kuin se
+lause, jota se määrää. Ainoastaan ahkeran ja pitkällisen harjoittelun
+avulla saavutamme taidon antaa lauseille oikean painon.
+
+    Ja poikki kukkaniittyjen
+    Sinisen järven rannallen,
+    _Mi kastehelmin hohti_,
+    Nyt kävi kulku hiljainen.
+
+
+
+3. Painon vähentäminen.
+
+Kun jonkun sanan määräys taas vuorostaan saapi eriasteisia määräyksiä,
+niin käypi vaikeaksi, toisinaan mahdottomaksikin, äänellä täydellisesti
+ilmaista painoa, jonka tähden, varsinkin jokapäiväisessä puheessa,
+tapahtuu, että sanan alkuperäinen painoaste ikäänkuin vähenee jokaisen
+uuden määräyksen vaikutuksesta. Esim.: Lapsi rakasti. Lapsi rakasti
+äitiään. Lapsi rakasti hellän äitinsä kotia.
+
+Jotta puhe olisi luonnollista ja sujuvaa, tulee _rakasti_-sanan.
+viimeisessä lauseessa saada heikompi paino kuin ensimmäisessä
+lauseessa. Kuitenkaan ei painoa koskaan saa vähentää siihen määrään
+että ymmärresanan paino laskeutuisi perusääntä aiemma.
+
+Emme saa lausua: »Sinun[-] pitää[-] rakastaa[-] Jumalaa[1] yli[-]
+kaiken[1]»,
+
+[paino:] ————— 1 2 vaan »Sinun[-] pitää[-] rakastaa[1] Jumalaa[2]
+yli[3] kaiken[2].
+
+Perussääntönä määräysten painoon nähden on: Anna määräyksille pikemmin
+liian heikko kuin liian voimakas paino, mutta älä kuitenkaan koskaan
+niin heikkoa, että se laskeutuisi perusääntä alemmaksi.
+
+
+
+
+II D. KATSAHDUS LOOGILLISEN PAINON YLEISIIN SÄÄNTÖIHIN.
+
+
+Subjekti (alus) on lausuttava perusäänellä, jos se on ymmärresana.
+
+Esim. Lintu[+] laulaa. Kokenut[+] kaikki tietää.
+
+
+Predikaattiverbi (maine).
+
+Hevonen[+] juoksee[1]. Ruusu[+] on[-] kukkinut[1].
+
+Taloja[+] on[-] palanut[1].
+
+
+Predikaatintäyte.
+
+Esim. Huoneet[+] ovat[-] kylmät[1].
+
+
+Objekti (kohde).
+
+Esim. Isä[+] veistää[1] kirvesvartta[2]. Hän[-] on[-] ottanut[1]
+kirjan[2].
+
+Poika[+] ampui[1] pyyn[2].
+
+
+Objektiivinen predikaatintäyte.
+
+Esim. Ukko[+] veisti[1] kirvesvarren[2] liian[4] lyhyen[3].
+
+
+Adverbiaali, subjektiivinen predikatiivi-adverbiaali.
+
+Esim. Sinä[-] veit[1] pojan[2] kouluun[2]. Isä[+] antaa[1]
+
+kirveen[2] pojalle[2]. Hän[-] viipyi[1] poissa[2] vuoden[2].
+
+Ukko[+] kävelee[1] suorana[2]. Talo[+] näyttää[1] kauniilta[2].
+
+Hän[-] oli[-] armelias[1] köyhille[2]. Vesi[+] tulee[1] tervalle[2].
+
+Hän[-] lauloi[1] hienosti[2] laulunsa[2]. Minä[-] möin[1]
+
+kyyhkyset[2] ja[-] pyyt[2] kaupunkiin[2].
+
+
+Objektiivinen predikatiivi-adverbiaali.
+
+Esim. Hän[-] veisti[1] kirvesvarren[2] kauniiksi[3].
+
+Toimikunta[+] valitsi[1] veljeni[2] puheenjohtajaksi[3].
+
+
+Adjektiivin ja adverbin adverbiaali.
+
+Esim: Olen[-] lukenut[1] oikein[4] hauskan[3] kirjan[2].
+
+Hän[-] tuli[1] juuri[3] nyt[2].
+
+
+Verbien deskriptiivinen määräys.
+
+Esim. Akka[+] puhui[1] laverteli[2] koko[3] illan[2].
+
+Pojat[+] kiveltä[2] kivelle[2] hypätä[1] kippelehtivät[2].
+
+
+Attribuutti.
+
+Adjektiivin attribuutti (johon kuuluvat askusanat, sekä kardinaaliset
+että ordinaaliset).
+
+Esim. Ei syvästä[3] kaivosta[2] vesi[+] lopu[1]. Ei suuret[1]
+
+sanat[+] suuta[2] halkaise[1]. Neljä[1] suurta[1] laivaa[+]
+
+tuli[1] satamaan[2]. Minä[-] istun[1] kolmannella[3] rivillä[2].
+
+Ensi[3] viikolla[2] lähden[1] kaupunkiin[2]. Me[-] annoimme[1]
+
+ruokaa[2] tyttörukalle[2].
+
+Poikkeus. Attribuutti ei saa painoa, kun se muodostaa pääsanan kanssa
+yhden käsitteen tai on miltei tarpeetonna määrääjänä käsitesanalle.
+Esim. pieni lapsi, pikku torppa, hyvä ystävä, nöyrin palvelijanne j.n.e.
+
+
+Substantiivi-attribuutti.
+
+Esim. Oletko[-] nähnyt[1] Järnefeltin[3] taulua[2]. Helsinki[+],
+
+Suomen[2] pääkaupunki[1], sijaitsee[1] Suomenlahden[3]
+
+rannalla[2]. Mainiota[4] epostamme[3] Kalevalaa[2] on[-] paljon[2]
+
+kiitetty[1]. Helsinki[+], Suomen[2] pääkaupunki[1], on[-]
+
+perustettu[1] Kustaa[-] Vaasan[3], Ruotsin[5] mainion[5]
+
+kuninkaan[4], aikana[2]. Maailman[4] suurimmassa[4] kaupungissa[3],
+
+Lontoossa[2], on[1] kuusi[2] miljoonaa[1] asujanta[+].
+
+Muistutus. Semmoisissa lauseissa kuin Ruotsin kuningaskunta. Suomen
+suuriruhtinaanmaa j.n.e. on edellinen sana niin liittynyt toiseen että
+ne muodostavat yhteisen käsitteen. Arvonimi on yleensä ominaisnimen
+painottomana lisänä. Esim. keisari _Vilhelm_, kreivi _Sprengtporten_,
+Herra ja Neiti _N.N._ Sitä vastoin täytynee olettaa että sukunimi on
+ristinimen varsinainen tärkeä määräys. Esim. Aukusti Väkevä- (alk.
+ominaisuutta), Heikki Helmikangas (aik. paikannimi).
+
+
+Appositiooni.
+
+Esim. Tuomarina[1] isä[+] ei[-] voinut[1] toisin[3] menetellä[2].
+
+
+
+
+II E. VASTAKOHTAISTEN KÄSITTEIDEN PAINO.
+
+
+1. Vastakohtien painon ymmärre ja tarkoitus.
+
+a. Perusääntä ylempänä olevaa painoa, jonka jokainen sana, huolimatta
+asemastaan lauseessa, voipi saada, kun se ilmaisee _vastakohtaisuutta_
+jollekin toiselle sanalle joko samassa tai toisessa lauseessa,
+nimitämme _vastakohtaisuutta ilmaisevaksi painoksi_.
+
+b. Vastakohtaisuutta ilmaisevan painon tarkoituksena on osittain äänen
+voimalla ja pituudella, osittain äänen asemalla esiintuoda niitä
+sanoja, jotka sisältävät vastakohtaisten käsitteiden ymmärteen.
+
+c. Vastakohtaisuutta ilmaisevan painon _voima_ ja _ääniaste_ vastaavat
+määräyspainon 3:tta astetta. Mitä taas äänen _korkeuteen_ tulee, niin
+on ensimmäisen osan ääniasema useimmiten korkeampi kuin toisen.
+
+Esim. Sisar on _iloluontoinen_, mutta veli on _surumielinen_.
+
+d. Mutta jos vastakohtaisuuden toista puolta tahdotaan enemmän
+huomattavaksi kuin toista, ei riitä ainoastaan äänen voiman ja äänen
+pituuden lisääminen, vaan täytyy myöskin _korottaa äänen asemaa_.
+
+Esim. Hänen _isänsä_ on hyvä ja kunnollinen, mutta olisitpa nähnyt
+hänen äitinsä.
+
+Erotus määräyspainon ja vastakohtaisuutta ilmaisevan painon välillä on
+se, että vastakohtaisuutta ilmaisevan painon:
+
+a. voivat saada sekä _ymmärre- että apusanat_;
+
+b. se pääasiallisesti riippuu lauseen _sisällyksestä_ ja
+_ajatusjuoksusta_, eikä sanojen asemasta lauseessa;
+
+c. tämän painon tarkoitus ei ole ainoastaan esiintuoda erityistä sanaa,
+vaan se samalla luopi ajatuksissa toisen sanan, johon lausuttu sana on
+vastakohtaisessa suhteessa;
+
+d. vastakohtaisuuden toisen osan ei tarvitse olla sanoin ilmoitettuna,
+vaan saattaa se olla ainoastaan edellytetty.
+
+Huom.! Vastak. ilmaiseva paino todistaa selvästi että meillä sanain
+ohessa on toinen valtava voima, jolla voimme ilmaista mieltämme,
+nimittäin _äänenpaino_.
+
+Ymmärresanat voivat yhtaikaa saada sekä _määräys- että
+vastakohtaisuutta_ ilmaisevan painon.
+
+Esim. Laiska[1] palvelija[+] sai[1] hyvän[3] isännän[2].
+
+
+
+2. Vastakohtaisuutta ilmaisevan painon jako.
+
+
+1. Ehdoton ja ehdollinen.
+
+a. Ehdoton vastakohtaisuus.
+
+Sanat, jotka sisältävät ehdottomasti vastakohtaisia ymmärteitä, voivat
+saada vastakohtaisuutta ilmaisevan painon huolimatta siitä, ovatko
+ne sitten samassa tai eri lauseissa, taikka onko niillä erityisiä
+vastakohtaisuutta ilmaisevia konjunktiooneja taikka ei.
+
+Esim. Usein[2] _matala[1]_ kanto[+] kaataa[1] _ison[3]_ reen[2]. Elä[-]
+
+ennen[2] _vanhaa[2]_ moiti[1] ennenkuin[2] _uuden[3]_ tavat[2]
+
+tunnet[1]. Ei[-] _väärästä[3]_ puusta[2] saa[1] _suoraa[3]_ keppiä[2].
+
+Antaa[1] _hyvä[+] vähästänsä[2], paha[-]_ ei[-] _paljostakahan[2]. Ei
+siitä _itse valkene_, jos _muita mustaa_. _Illanvirkku, päiväntorkku_.
+
+
+
+b. Ehdollinen vastakohtaisuus.
+
+Ehdollisessa vastakohtaisuudessa ovat kaikki yhdenlaatuiset eri sanat,
+jotka ovat toisiaan vastaavina lauseen osina, vastakkain asetetuissa,
+mutta rajoittavien konjunktioonien yhdistäneissä lauseissa.
+
+1). Jos sama sana muodostaa toisiansa vastaavat lauseen jäsenet, niin
+tietysti ei synny mitään vastakohtaa (esim. lauseen subjektien välillä).
+
+Esim. Hän oli _hyvä-, mutta hän voi myös olla _paha_. Sitävastoin: _He_
+ovat _hyvät_, mutta _te_ olette _pahat_.
+
+2). Vastakohtaiset, varsinkin rajoitusta tarkoittavat adverbit, saavat
+usein vastakohtaisuutta ilmaisevan painon niiden sanain ohessa, joille
+varsinainen paino tulee.
+
+Esim. Vaikka hän oli _aatelinen_, oli hän kuitenkin _kansallismielinen_.
+
+3). Varsinkin annetaan paino adverbille eli konjunktioonille, kun
+vastakohtaisuuden toinen puoli on edellytetty, jotta siihen siten
+paremmin huomiota teroitettaisiin.
+
+Esim. _Pienillä_ padoilla on _myös_ korvat, (Edellytetty: eikä
+ainoastaan _suurilla_). Hän oli _sentään_ suuren Kustaa Adolfin tytär.
+(Edellytetty: vaikka hänellä oli vikoja).
+
+Erilaista vastakohtaisuutta sisältävät sanat: _Isä_ on _ruotsalainen_,
+mutta _äiti_ on _saksalaista_ syntyperää. Elä _minua_ kiitä, vaan kiitä
+_Jumalaa_ pelastuksestasi. Hevonen oli _ruma_, sitävastoin olivat
+vaunut _kauniit_. _Hän juoksee_ nopeammin kuin _sinä_. _Hän juoksee_
+nopeammin kuin _sinä ajat_. _Hänen härkänsä_ on melkein yhtä hyvä kuin
+_sinun hevosesi_.
+
+Kun positiivistä sanaa vastaavana sanana on komparatiivi tahi
+superlatiivi, niin saavat molemmat painon.
+
+Esim. _Rakas_ saa _väistyä_, kun _rakkaampi tulee_.
+
+Prepositioonille paino:
+
+Esim. Auta miestä _mäessä_, elä mäen _alla_.
+
+Semmoisia sanoja kuin: todellakin, juuri, kerrassaan, saavat
+vastakohtaisuutta ilmaisevan painon niiden sanain ohessa, joille
+varsinainen paino tulee.
+
+Esim. _Juuri hän_ on tehnyt tämän murhan (eikä kukaan muu). Tämä on
+_todellakin kaunista_.
+
+Kun lauseen osat kahdessa toisiinsa yhdistetyssä lauseessa muutetaan
+niin että toisen lauseen subjekti käy objektiksi tahi predikaatin
+määräykseksi toisessa, saavat ne vastakohtaisuutta ilmaisevän painon.
+
+Esim. Renki potkaisi hevosta ja hevonen potkaisi renkiä.
+
+
+
+2. Edellytetyt ja kätketyt vastakohdat.
+
+a. Edellytetty on vastakohtaisuus silloin kuin vastakohtaisuuden toinen
+osa ei ole sanoin ilmituotu.
+
+b. Kätketty on. vastakohtaisuus silloin kuin toinen tai molemmat
+vastakohdat ovat lausuttuina semmoisilla sanoilla, että vastakohtaisuus
+piiloutuu eli käy epävarmaksi.
+
+Edellisessä tapauksessa on sääntönä:
+
+_Ota selville vastakohtaisuuden edellytetyt osat._
+
+Jälkimmäisessä tapauksessa on sääntönä:
+
+_Muodostele tuota epävarmaa vastakohtaisuutta eli, toisin sanoen, aseta
+vastakohtaisuus yksinkertaisempaan muotoon._
+
+Muist. Selvässä ja elävästi lausutussa puheessa esiintyy edellytetty
+vastakohtaisuus selvästi kuulijalle yksinomaan painon kautta.
+
+Esim. _Käveletkö_ sinä kaupunkiin? Käveletkö _sinä_ kaupunkiin?
+Käveletkö sinä _kaupunkiin_?
+
+
+
+Edellytetyn osan ilmaiseminen.
+
+Esim. _Tyvestä_ puuhun noustaan (edellytetty: eikä latvasta). Ei
+saa siltoja _sanoista_ (vaan teoista). Ei _yksi_ kauan naura (mutta
+useammat voivat nauraa kauan). Vuoren _toisella_ puolen on myös taloja
+(eikä ainoastaan tällä). Paha on mielellä asunto, kun on _mieli_ muiden
+päässä (eikä omassa). Ei _koirakaan_ kotiväkeä hauku (saatikka sitten
+ihminen). »Ihminen» on kätketty vastakohta. Muodostettuna saamme: koira
+_järjetön luontokappale_, ihminen _järjellinen olento_. Ei kaikilla
+aaseilla ole _pitkiä korvia_ (muutamilla on lyhyet).
+
+
+
+Kätketyn osan ilmaiseminen.
+
+Vastakohtaisuutta sanomme kätketyksi silloin kuin toinen taikka
+molemmat puolet lausutaan kuvaannollisesti sanoilla, jotka vähemmin
+terottuneelta käsitykseltä kätkevät vastakohtaisuuden varsinaiset osat.
+Jos siis epävarmuuden sattuessa tahtoo todistaa vastakohtaisuuden
+olemista, niin täytyy vastakohtaisuutta muodostella.
+
+Vastakohtaisuuden muodosteleminen merkitsee siis sitä, että molemmat
+osat lausutaan semmoisilla sanoilla, jotka ilmoittavat niitä yleisiä
+käsitteitä, joihin tuo kuvannollisesti lausuttu vastakohtaisuus
+sisältyy.
+
+Semmoisia vastakohtaisuuden muodosteluja ovat esim.: sisällinen
+— ulkonainen (toiminta tai tila), kauneus — rumuus, hyve — pahe,
+sota — rauha, pimeys — valkeus, elämä — kuolema, rikkaus — köyhyys,
+iloa—surua, entisyys — nykyisyys, j.n.e.
+
+Esim.
+
+    On Suomi _köyhä_, siksi jää,
+    jos _kultaa kaivannet_.
+    Sen _vieras_ kyllä _hylkäjää_,
+    vaan _meille kallein_ maa on tää:
+    sen _salot, saaret, manteret_
+    ne _meist'_ on _kultaiset_.
+
+Muodostelu.
+
+  1 osa.
+    Köyhä,
+    salot, saaret, manteret
+    jos kultaa kaivannet.
+
+    Vieras
+    Hylkäjää (ei rakasta).
+
+  2 osa.
+    Kultainen.
+    Meist' = maan asukkaista,
+    jotka eivät sitä kaipaa.
+
+    Meille
+    Kallein (rakastaa).
+
+    »Ja jos tykkien luon' edes harjannut
+    _sotavanhus_ ois,
+    joku _mies_, jok' on ruutia haistellut,
+    johon luottaa vois;
+    mut' ei, vaan _poikapa_ hento nyt siin'
+    _viistoistavuotias_, kreivi Schwerin,
+    saa vastata patterista —
+    voiko turvata semmoisiin?»
+
+  1 osa.
+    sotavanhus
+    mies
+
+  2 osa.
+    poikapa
+    viistoistavuotias.
+
+    »_Teiss'_, everstluutnantti, _riutunehen_
+    jo _voiman_ nään;
+    toki henkenne tarjota rohkeetten
+    maan eestä tään;
+    _elon aamu_ se _mulla_ on parhaallaan —
+    viistoist' ikävuottahan mull' on vaan —».
+
+  1 osa.
+    Teiss'
+    riutunehen voiman (vanha).
+  2 osa.
+    mulla
+    elon aamu (nuori).
+
+                     Maamme.
+
+
+        1. Maa, isänmaamme, Suomenmaa,
+
+           soi[1] sana[+] kultainen[1]!
+
+           Ei _laaksoa_, ei _kukkulaa_,
+
+           Ei _vettä, rantaa_ rakkaampaa[1],
+
+           kuin _kotimaa_ tää _pohjainen[1]_,
+
+           maa kallis[1] isien[1].
+
+
+        2. On Suomi _köyhä[1]_, siksi[2] jää[1],
+
+           jos _kultaa[2] kaivannet[1]_.
+
+           Sen _vieras[+]_ kyllä _hylkäjää[1]_,
+
+           vaan _meille kallein[2]_ maa[1] on tää:
+
+           sen _salot, saaret, manteret_
+
+           ne meist' on _kultaiset[1]_.
+
+
+        3. Ovatpa meille rakkahat[1]
+
+           koskemme[+] kuohuineen[1],
+
+           ikuisten[2] honkain[1] huminat[+],
+
+           _täht'yömme[+], kesät[+] kirkkahat[1]_,
+
+           kaikk'[+], _kuvineen[1]_ ja _lauluineen[1]_
+
+           mi painui[1] sydämmeen[2].
+
+
+        4. Täss'[2] _auroin[2], miekoin[2], miettehin[2]_
+
+           isämme[+] sotivat[1].
+
+           Kun päivä[+] _piili[1] pilvihin[2]_
+
+           tai _loisti[1]_ onnen[3] _paistehin[2]_,
+
+           täss'[2] Suomen[4] kansan[3] vaikeimmat[3]
+
+           he vaivat[2] kokivat[1].
+
+
+
+        5. Tään[5] kansan[4] taistelut[3] ken voi[1]
+
+           ne kertoella[2], ken?
+
+           Kun _sota[+]_ laaksoissamme[2] soi[1],
+
+           ja _halla[+]_ näläntuskan[2] toi[1],
+
+           ken mittasi[1] sen _hurmehen[2]_
+
+           ja _kärsimykset[2]_ sen?
+
+
+      6. Täss' on sen veri[+] virrannut[1]
+
+           hyväksi[2] _meidänkin_,
+
+           täss' _iloaan[2]_ on nauttinut[1]
+
+           ja tässä _huoltaan[2]_ huokaillut[1]
+
+           se kansa[+], jolle muinahin[2]
+
+           kuormamme[2] pantihin[1].
+
+
+        7. Tääll' olo[+] meill' on _verraton[1]_
+
+           ja _kaikki[+]_ suotuisaa[1];
+
+           vaikk' onni[+] mikä[1] tulkohon[1],
+
+           maa, isänmaa se meillä on[1];
+
+           Mi maailmass'[2] on armaampaa[1]
+
+           ja mikä kalliimpaa[1]?
+
+
+        8. Ja tässä[2], täss'[2] on[1] tämä maa[+],
+
+           sen näkee[1] silmämme[+];
+
+           me kättä[3] voimme[1] oientaa[2]
+
+           ja _vettä[3], rantaa[3]: osoittaa[2]
+
+           ja sanoa[2]: kas[1] tuoss'[2] on[1] se,
+
+           maa[+] armas[1] isäimme[1]!
+
+
+        9. Jos _loistoon[2]_ meitä saatettais'[1]
+
+           vaikk' _kultapilvihin[2]_,
+
+           miss' _itkien[2]_ ei _huoattais'_[1],
+
+           vaan _tähtein[3] riemun[2]_ sielu[+] sais[1],
+
+           ois tähän _köyhään[3] kotihin[2]_
+
+           halumme[+] _kuitenkin._
+
+
+       10. _Totuuden[1], runon[1]_ kotimaa[+],
+
+           maa[1] tuhatjärvinen[2],
+
+           miss elämämme[+] suojan[2] saa[1],
+
+           sa _muistojen[2]_, sa _toivon[2]_ maa[1],
+
+           ain'[2] ollos, _onnees[3] tyytyen[2]_,
+
+          _vapaa[1]_ ja _iloinen[1]_.
+
+
+       11. Sun kukkas[+] vielä[2] _kuorestaan[2]_
+
+          _vapaaksi[2] puhkeaa[1]_;
+
+           viel'[2] _lempemme[+]_ saa[1] hehkullaan[2]
+
+           sun toivos[3], riemus[3] nousemaan[2],
+
+           ja kerran[2] laulus[+], synnyinmaa,
+
+           korkeemman[3] kaiun[2] saa[1].
+
+
+
+
+    Vänrikki Stool.
+
+
+        1. Mennyttä[3] aikaa[2] muistelen[1]
+
+           niin mielelläni[2] vielä[2];
+
+           niin moni[1] armas[1] tähtönen[+]
+
+           minulle viittaa[1] siellä[2].
+
+           Ken mua seuraa[1] retkelle[2]
+
+           Nyt[2] Näsijärven[3] rannalle[2]?
+
+
+        2. Siell'[2] opin[1] miehen[3] tuntemaan[2],
+
+           hän _sotamies[1]_ ol' _ennen_[2],
+
+           _nyt[2] vänrikki[1]_ ol' _arvoltaan[2]_,
+
+           vaikk' onni[+] näytti[1] menneen[2].
+
+           Ties kuinka samaan[4] talohon[3]
+
+           satuimme[1] saamaan[2] asunnon[3].
+
+
+        3. Mies[1] olin silloin[2] kelvokas[2],
+
+           niin luulin[1], vaikka miksi[2].
+
+           Min' olin ylioppilas[1],
+
+           mainittiin[1] maisteriksi[2];
+
+           hupaasti[2] elin[1] _»mensallain»[2]_,
+
+           _Stool[+]_, hän söi[1] _armoleipää[2]_ vain.
+
+
+        4. _Minulla_ oli[1] _»vaakunaa»[+]_
+
+           ja _piippu[+] merenvahaa[1]_.
+
+           _Stool_ poltti[1] _kototupakkaa[2]_
+
+           jos häll' ei _pulaa pahaa[1]_;
+
+           mut' _silloin[2]_ sai[1] vaan _sammaleen[2]_
+
+          _niveräpiippu[+]_ täytteekseen[2].
+
+
+        5. Oi kulta-aika[+] riemukas[1],
+
+           suloisin[1], armahaisin[1],
+
+           kun nuor'[1] on, ylioppilas[1],
+
+           ja puutetta[+] ei laisin[1],
+
+           ja _huolt'[2]_ ei tuntis[1] _ollenkaan[2]_,
+
+           kun _viikset[3]_ vaan sais[1] kasvamaan[2]!
+
+
+        6. En tiennyt[1] _muiden[3] hädäst'[2]_, en[1],
+
+           _ilosta[2]_ sydän[+] sykki[1];
+
+           vahv'[1] olin, punaposkinen[1],
+
+           ja kaikki[1] suonet[+] tykki[1].
+
+           Niin nuori[1] olin, riehakas[1],
+
+           ja ylpeä[1] kuin kuningas[2].
+
+
+        7. Mut' hyljättynä[2] majassaan[2]
+
+           _Stool[+]_ istui[1] nurkumatta[2],
+
+           loi[1] nuottaa[2], imi[1] piippuaan[2],
+
+           meluumme[3] puuttumatta[2].
+
+           _Tuommoisen[2]_ suhteen, sen mar ties[1],
+
+           min' olin oikein[3] _aika[2] mies[1]_.
+
+
+        8. Minusta näky[1] hupaisin[2]
+
+           ol' ukon[1] käyrä[1] varsi[+]
+
+           ja kasvot[+], jäykät[1] liikkeetkin[+]
+
+           ja vanha[1] vaateparsi[+],
+
+           vaan _konkkanenä[+]_ erikseen[2]
+
+           sangattomine[2] lasineen[1].
+
+
+        9. Monasti[2] menin[1] ukon[3] luo[2]
+
+           ilveilemähän[2] suotta[2].
+
+           Mik' iloni[+], kun suuttui[1] tuo,
+
+           ja häitä ratkes[1] nuotta[+],
+
+           kun kädest'[2] ukon[3] kävyn[2] vein[1],
+
+           ja paikoin[2] väärän[3] silmän[2] tein[1]!
+
+
+       10. Hän silloin[2] ylös[2] kavahtaa[1],
+
+           mun ovest'[2] ulos[2] työntää[1];
+
+           sananen[+], hitu[+] vaakunaa[1],
+
+           ja taas[2] hän rauhan[2] myöntää[1].
+
+           Ma tulin[1] taas[2] kuin ennenkin[2]
+
+           ja samoin[2] taaskin[2] ilveilin[1].
+
+
+       11. Ett' oli nuori[1] aikoinaan[2]
+
+           _myös ukko_ kerran[2] ollut,
+
+           enemmän[2] nähnyt[1] matkallaan[2]
+
+           ja kauemmaksi[2] tullut[1],
+
+           en sitä _silloin[2]_ huomannut[1],
+
+           siks' olin liian[2] oppinut[1].
+
+
+       12. En myös, ett' ilomielin[2] hän
+
+           verensä[2] tuorehimman[3]
+
+           vuodatti[1] eestä maamme[2] tän
+
+           nyt[2] mulle rakkahimman[3].
+
+           Ma olin nuori[1], riehakas[1],
+
+           _hän vänrikki[1], ma kuningas[1]_.
+
+
+       13. Mut moisiin[3] ilveilyksikin[2]
+
+           vihdoinkin[2] kyllästyin[1] ma.
+
+           Kuink' oli, talvipäivääkin[2]
+
+           _lyhyttä[3] pitkäksyin[1]_ ma;
+
+           olipa oikein[2] outoa[1],
+
+           ei tahtonut[1] se loppua[2].
+
+
+       14. Ma tartuin[1] ensi[3] kirjahan[2],
+
+           hakien[2] huvitusta[3],
+
+           ol' teos[1] tuntemattoman[2]
+
+           se Suomen[3] taistelusta[2];
+
+           armosta[2] vaan tuo _kansiton[+]_
+
+           lie päässyt[1] _muiden_ joukkohon[2].
+
+
+       15. Mukaani[2] vein[1] sen, kääntelin[1]
+
+           sivuja[2] jonkun[3] hetken[2],
+
+           en tiedä[1], kuin näin esihin[2]
+
+           sain[1] Savon[4] miesten[3] retken[2];
+
+           ma lu'in[1] rivin[2], lu'in[1] kaks[2],
+
+           vereni[2] tunsin[1] kuumemmaks[3].
+
+
+       16. Näin[1] kansan[2] kaikki[3] koittavan[2]
+
+           edestä kunniansa[3];
+
+           näin[1] sotajoukon[2] voittavan[2]
+
+           nälissään[2], viluissansa[2].
+
+           Jokaista[3] sanaa[2], lukeissain[1],
+
+           suudella[2] tahdoin[1] innoissain[2].
+
+
+       17. Vaarassa[1], tulen[1] keskellä
+
+           tuon parven[1] urheutta[+]!
+
+           Mill' ansaitsit[1], maa raukka, sä
+
+           noin suurta[3] rakkautta[2],
+
+           noin _kallis[2]_ kuinka olla voit[1],
+
+           kun leiväks'[2] _pettua[2]_ vaan soit[1]!
+
+
+       18. Aloille[2] aatteheni[+] mun
+
+           vei[1] tuntemattomille[3],
+
+           uus[1] elo[+] syttyi[1] sieluhun[2],
+
+           aavistamaton[1] sille;
+
+           kuin siivin[2] lensi[1] aikani[+],
+
+           oi kuink' ol' lyhyt[1] kirjani[+]!
+
+
+       19. Se loppui[1], samoin iltakin,
+
+           vaan hehkuvalla[3] miellä[2]
+
+           ma lisää[3] kuulla[2] halusin[1]
+
+           ja selvitystä[2] vielä[2]
+
+           niin moniin[3] kohtiin[2] hämäriin[3].
+
+           Luo[2] vanhan[3] Stoolin[2] läksin[1] niin.
+
+
+       20. Häll' oli paikka[+] entinen[1]
+
+           ja työkin[+] samallainen[1].
+
+           Vastaani[2] lensi[1] ovellen[2]
+
+           jo katse[+] nurjamainen[1];
+
+           olipa, kuin ois kysynyt[1];
+
+           Vai _yökskään[2]_ ei saa[1] rauhaa[2] nyt[2]?
+
+
+       21. Mut muuttuneena[2] tulin[1] ma,
+
+           miel'[+] oli toisenlainen[1]:
+
+           »Luin[1] Suomen[3] viime[3] sodasta[2],
+
+           olenhan Suomalainen[1].
+
+           Mua lisää[1] kuulla[+] haluttais[1],
+
+           kenties _teiltä_ sitä sais[1]?»
+
+
+       22. Näin lausuin[1]. Silmäns'[2] ihmeissään[2]
+
+           luo[1] ukko[+] nuotastansa[2];
+
+           ne loistavat[1], kuin seisois[1] hän
+
+           edessä rintamansa[2]:
+
+           »Jotakin ehkä tietäisin [1],
+
+           olinhan siellä[2] _minäkin_».
+
+
+       23. Ma istun[1] olkivuoteellen[2];
+
+           sanella[2] Dunckerista[3]
+
+           hän alkaa[1], töistä[3] urhojen[4]
+
+           ja Malmi[3] kapteenista;
+
+           hänellä kasvot[+] kirkastuu[1],
+
+           Oi, kuinka hän nyt[2] kaunistuu[1]!
+
+
+       24. Hän veripäivät[2] nähnyt[1] on
+
+           ja käynyt[1] surman[3] tiellä[2],
+
+           ja _voiton_[2] nähnyt[1], _tappion_[2],
+
+           jonk' äityy[1] haavat[+] vielä[2];
+
+           _häll'_ on niin paljo[1] _muistissaan[1]_,
+
+           _maailma[+]_ mit' _ei_ muistakaan[1].
+
+
+       25. Siin' istuin[1] hiljaa[2], kuultelin[1],
+
+           ei sanaa[+] kadonnunna[1]:
+
+           puol'yö[+], kun sieltä[2] erkanin[1],
+
+           jo oli kulununna[1];
+
+           hän saattoi [1] minut ovellen[2],
+
+           mua iloisesti[3] kätellen[2].
+
+
+       26. Nyt[2] viettää[2] yhdess'[2] aljettiin[1]
+
+           eloa[3] hauskaa ratki,
+
+           _murehet[2], riemut[2]_ jaettiin[1]
+
+           ja yksin »vaakunatki»[2].
+
+           Nyt[2] olin vaan _yl'oppilas[1]_,
+
+           _hän suurempi[1]_ kuin _kuningas_.
+
+
+       27. Ja ukon[3] suust'[2] on[1] tarutkin[+]
+
+           ne, joita laulan[1] tässä.
+
+           Niit' usein[2] öisin[2] kuultelin[1]
+
+           pärehen[2] liekinnässä[2].
+
+           Ne korutont'[2] on kertomaa[1],
+
+           ne ota[1], kallis[1] synnyinmaa.
+
+
+
+Maamme.
+
+Vastakohtaisuutta ilmaiseva paino.
+
+1. Laaksoa — kukkulaa; vettä — rantaa; pohjainen kotimaa —
+(edellytetty: muut kotimaat tai etenkin eteläiset seudut).
+
+2. Katso edellä: 2. Edellytetyt ja kätketyt vastakohdat.
+
+3. Täht'yömme (pimeys) — kesät kirkkahat (valkeus); Kuvineen —
+lauluineen (näkö — kuulo; tähtiyöt ja ihanat kesät: se mitä näemme;
+koskien kohinat ja honkain huminat: se mitä kuulemme).
+
+4. Auroin (rauhan asein) — miekoin (sodan asein); auroin, miekoin
+(ulkonaisin asein) — miettehin (sisällisin asein); — piili pilvihin
+(pimeys = onnettomat olot) — loisti onnen paistekin (valkeus =
+onnelliset olot).
+
+5. Sota (hyökkäys ihmisten puolelta) — halla (hyökkäys luonnon
+puolelta); hurmehen (ruumiillinen kärsimys) — kärsimykset (oikeastaan
+kärsivällisyys, henkinen kärsimys).
+
+6. Meidänkin — (edellytetty: heidän, jotka silloin elivät); iloaan —
+huoltaan.
+
+7. Verraten — kaikki (täällä on kaikki, mitä tarvitsemme sekä
+ruumiilliseksi että henkiseksi viihtymykseksemme).
+
+8. Vettä — rantaa.
+
+9. Loistoon kultapilvihin (missä on yltäkyllin elämän riemua) — köyhään
+kotikin (missä on elämän riemun puute); itkien huoattais (surua) —
+tähtein riemun (iloa ihanteellisessa merkityksessä).
+
+10. Totuuden (siveellisen totisuuden, vakavuuden) — runon (iloisuuden);
+muistojen (entisyyden) — toivon (tulevaisuuden); onnees tyytyen
+(osoittaa vapauden ja ilon puutetta) — vapaa, iloinen.
+
+11. Vielä kuorestaan (puhkeematon) — vapaaksi puhkeaa (puhjennut);
+lempemme (henkinen maaperä).
+
+
+
+Vänrikki Stool.
+
+1. Sotamies — vänrikki; ennen — nyt; arvoltaan vänrikki (ylennystä,
+ulkonainen loisto) — onni näytti menneen (köyhyyttä, todellisuus).
+
+3. »Mensallain» (hyvät tulot opettajana) — armoleipä (ilman tuloja);
+Stool — (edellytetty: minä).
+
+4. Minulla — Stool; »vaakunaa» (hyvää tupakkaa) — kototupakkaa (huonoa
+tupakkaa); sammaleen — (edellytetty: eikä lehdistä tehtyä tupakkaa);
+ei pulaa pahaa — silloin (pahassa pulassa); merenvahapiippu (kallis
+piippu) — niveräpiippu (halpa piippu).
+
+5. Ja huolt' ei tuntis ollenkaan (ei muita suruja tuntenut, ainoastaan
+että) — viikset sais kasvamaan.
+
+6. Muiden hädäst' — ilosta (minun iloni).
+
+7. Stool — (edellytetty: me); loi nuottaa, imi piippuaan (hiljaista
+tointa) — meluumme; tuommoisen (vähäpätöinen henkilö) — aika mies
+(tärkeä henkilö).
+
+10. Taas — ennenkin.
+
+11. Ukko — (edellytetty: niinkuin minä); silloin — (edellytetty:
+myöhemmin).
+
+12. Hän — ma; vänrikki — kuningas.
+
+13. Lyhyttä (aistimin tajuttuna) — pitkäksyin (pitkä henkisessä
+merkityksessä, ikävän johdosta).
+
+14. Kansiton (arvoton kirja) — muiden (arvokkaiden kirjojen).
+
+17. Kallis (rakkautta) — pettua soit (tylyä kohtelua = ei rakkautta).
+
+20. Yökskään — (edellytetty: kun päivällä ei saa).
+
+21. Teiltä — (edellytetty: kun kirjasta en saanut).
+
+22. Minäkin — (edellytetty: niinkuin ne, joista luit).
+
+24. Voiton — tappion; häll'— maailma (toiset ilmiset); muistissaan — ei
+muistakaan (muistanut — unohtanut).
+
+26. Nyt — (edellytetty: ennen); hän — (edel.: minä); yl'oppilas —
+suurempi kuningasta.
+
+
+
+
+F. PERUSÄÄNTÄ ALEMPANA.
+
+
+1. Pronomini.
+
+Pronominit ovat tavallisesti perusääntä alempana syystä, että ne
+eivät semmoisenaan sisällä mitään ymmärrettä, vaan niitä käytetään
+varsinaisten ymmärresanain sijaisina, taikka niille antaa merkityksen
+ainoastaan suhde niihin ymmärresanoihin, joiden sijaisina ovat.
+
+a) Personaalipronominit. Näitä ei Suomen kieli juuri käytä muita kuin
+3:nnen persoonan pronominia, ellei lauseessa ole vastakohtaisuutta eli
+vertailua. Semmoisissa lauseissa kuin: _hän_ se on, — talo on _hänen_,
+on joku edellytetty vastakohtaisuus lausunnon perusteena.
+
+b) Refleksiivipron. (itsekohtainen) _itse_ saa usein ja resiprokipron.
+_toinen_ aina vastakohtaisuutta ilmaisevan painon ja määräyspainon.
+
+Esim. Hän[-] hoitaa[1] itseänsä[-]. Minne[2] nyt[2] aijot[1]
+sijoittaa[2]
+
+itsesi[-].
+
+Tahdotteko olla _itseksenne_. He tekivät sen _itsestänsä_. Minä _itse_.
+
+c) Possessiivipron. painoton. Pääsanansa jälessä saapi se
+kvalitatiivisen painon, niinkuin esim. Isä meidän.
+
+d) Demonstratiivi- ja determinatiivi pronominit _tämä, tuo, nämä, nuo,
+se, ne_.
+
+Nämä pron., jotka ovat olemassa juuri viitatakseen johonkin toiseen,
+erotukseksi toisesta, saavat usein vastakohtaisuutta ilmaisevan
+painon, vaikkapa toinen puoli olisi edellytetty. Varsinkin tapahtuu
+tämä silloin kuin pääsanalla on relatiivinen (vertaileva) sivulause
+määrääjänä.
+
+Esim. Se kuningas, jota _me_ pidämme suurimpana.
+
+Kun pron. _se, nämä_ ovat yksinäisinä ja relatiivinen sivulause on
+määrääjänä, saapi se määräys- painon.
+
+Esim. Se[+] ei[-] aina[2] ole[-] hullu[1], jota[-] hulluksi[2]
+huudetaan[1].
+
+Poikkeus. Kun pronomineja tuo, nuo voidaan pitää adverbiaaleina
+edellytetyissä lauseissa, saavat ne painon. Painon saavat ne myös, kun
+ovat yksinäisinä tai merkitsevät samaa kuin tuo esine.
+
+Esim. Pidän _tuosta_.
+
+e) Interrogatiivipron. _kuka, ken, mikä, kumpi_ saavat
+vastakohtaisuutta ilmaisevan painon.
+
+Esim. _Mikä_ mies hän on.
+
+Suoranaisessa kysymyslauseessa saapi kysymyssana usein
+vastakohtaisuutta ilmaisevan painon.
+
+Esim. _Kuka_ on tämän tehnyt? _Kummasta_ pojasta puhe on? _Kumpi_
+siellä? (Pekka vai Paavo?)
+
+Tavallisesti saapi kysymyssana, kun se on yksinäisenä, voimakkaan,
+mielenliikutusta ilmaisevan, siis kvalitatiivisen painon. Se osoittaa
+silloin joko rauhattomuutta, vihaa, uteliaisuutta tai iloa.
+
+f) Relatiivipron. _joka, mikä, kuka, kumpi_ ovat painottomat.
+
+Esim. Sijan[-] tiedät, kussa[-] synnyit, paikan tiedät, kussa[-]
+kasvoit. Te, joka[-] olette oppinut mies.
+
+g) Indefiniittipron. _eräs, joku, jokainen_ saavat vieläkin
+vaihtelevamman ja usein vastakohtaisuutta ilmaisevan painon. Niistä
+sanoista, jotka merkitykseltään lähenevät adjektiivia, vaikka ne
+puhetavan mukaan käytettyinä eivät aina saa oikeaa merkitystänsä,
+on sääntönä että ne pronomiinisessa merkityksessä käytettyinä eivät
+saa painoa, mutta ne saavat taas painon silloin kuin niitä käytetään
+adjektiiveina.
+
+Esim. Kaikki[-] ihmiset[+] pitivät[1] hänestä. Moni[-], joka tuskin
+osaa käydä, luulee osaavansa lentää.
+
+Sitävastoin: Kaikki[1] ihmiset[+] ovat[-] kuolevaisia[1]. Monta[1]
+ihmistä[+] istuu[1] vielä[2] salissa[2].
+
+h) Yksikään käytetään adjektiivisesti nominin kanssa ja saa silloin
+adjektiivin painon.
+
+Esim. Ei _yhdelläkään_ ihmisellä ole puhdas omatunto. Tehtiinkö päätös
+_yhdestäkään_ kysymyksestä.
+
+i) Mikään, kun se on pääsanan jälessä, saa painon. Esim. Ei Suomen
+järvissä ole _missään_ suolaista vettä.
+
+j) Itse pääsanansa _edellä_ tavallisesti ei saa painoa, jotavastoin
+pääsanalle annetaan vastakohtaisuutta ilmaiseva paino.
+
+Esim. Ei itse[-] _kuninkaallakaan_ ole rahaa. Itse[-] _asia_ jätettiin
+siksensä.
+
+Mutta jos itse on pääsanan jälessä, niin silloin se saa
+vastakohtaisuutta ilmaisevan painon. Esim. Ei kuninkaalla
+_itselläänkään_ ole rahaa. Asia _itse_ oli tärkeä.
+
+k) Pronomineja _muu ja toinen_ käytetään vertailua ja vastakohtaisuutta
+ilmaistessa ja ovat ne siis painollisia.
+
+Esim. Amerikassa saamme toisen isänmaan. Ateena ja muu Kreikka.
+Toisella tapaa. Muulla tavalla. Miehistä oli toinen nuori, toinen
+vanha. Me emme sitä tiedä, mutta kyllä joku muu tietää.
+
+
+
+2. Prepositioonit ja konjunktioonit.
+
+Nämä sanat asetetaan perusääntä alemma syystä etteivät ne sisällä
+varsinaista ymmärrettä, vaan osoittavat ainoastaan erinäisiä
+ymmärteiden ja lauseiden välisiä suhteita. Semmoisia ovat. esim.
+_kanssa, jos, takana, alas, perästä, jälestä, ympäri, läpitse_ j.n.e.
+
+
+
+
+III. KVALITATIIVINEN PAINO.
+
+
+Äänen laatu mielialan ilmaisijana.
+
+Kvalitatiivinen paino käsittää symboolisen ja eetillisen painon.
+
+
+
+1. Symboolinen paino.
+
+Symbooliseksi sanotaan sitä painoa, joka äänen soinnulla eli äänen
+värityksellä tekee sanan sisällyksen, käsitteen havainnolliseksi. Tästä
+johtuu, että mitä loogillisempi ja abstraktisempi luetun sisällys
+on, sitä vähemmin lukiessa kysytään symboolista painoa, jota vastoin
+havainnollista ja kuvarikasta esitystä lukiessa täytyy ottaa tarkasti
+huomioon symboolinen paino.
+
+Kaikissa kielissä on sanoja, joilla koetetaan mukailla jotain ääntä.
+Tällaisia sanoja sisältävät kielet etenkin alkuperäisimmässä,
+välittömimmässä muodossaan, ja niitä emme saa lukiessa värittää
+liiaksi, mutta kuitenkin niin paljon, että lausuessamme olemme
+tietoiset niiden kuvaavasta merkityksestä.
+
+Äänet sinänsä ovat jo kylläksi kuvaavia. Sellaisia sanoja ovat esim.
+_visertää, narisee, kohisee, sihisee, vinkuu, kirisee, roihuaa,
+räiskyy_ y.m. Nämä ovat 1:sen asteen symboolisia sanoja. 2:sen asteen
+symboolisen painon saavat sellaiset sanat, jotka ilmaisevat jotain
+aistimin tajuttua. Tämänlaatuiset sanat meidän tulee lausua niin
+selvään, että kuulija äänen avulla saapi sisällystä täysin vastaavan
+havainnollisen käsityksen.
+
+Esim. _Musta, valkoinen, terävä, raskas, jäykkä, puhdas, heleä, kirkas,
+välkkyvä_ j.n.e.
+
+Näitä sanoja käytetään henkisessäkin merkityksessä. Symboolinen paino
+niinmuodoin on taito eli kyky antaa tämänlaatuisille sanoille sellainen
+äänenväritys, että kuulija tajuaa ne alkuperäisessä voimassaan ja että
+hänen sielussaan välttämättömästi syntyy havainnollinen, elävä kuva
+niiden vaikutuksesta. Lisäksi tulee meidän äänen avulla elävästi kuvata
+kaikki luonnon-elämän ilmaukset.
+
+Esim. _vihreys, kukoistus, kuihtuminen, tuoksu, puron lirinä, kosken
+kohina_ j.n.e., silloinkin kuin näitä käsitteitä käytetään henkisessä,
+siveellisessä merkityksessä. Siinä kysytään vielä suurempaa taitoa,
+kuin aistimin tajuttavan luonnon-elämän kuvailemisessa. Toisen asteen
+symboolisen painon tarkoituksena on siis tehdä aistimin tajuttaviksi
+sellaisia käsitteitä, joihin jo itse kielen äänet luovat jonkun verran
+väritystä, mutta 3:nnen asteen symboolisen painon tarkoituksena on
+esittää kuulijalle sellaisia käsitteitä, joita ei voida aistimin
+tajuta. Onhan olemassa sanoja, joita kuullessa ei tule enää
+ajatelleeksikaan niiden alkuperäistä, aistillista merkitystä, vaan ne
+esiintyvät aivan abstraktisina. Esim. _käsittää, ymmärtää, järki_.
+
+Meidän tulee äänen avulla kuvata esim. _pelkoa, toivoa, hämmästystä,
+siunausta, kirousta, ylenkatsetta, kaihoa_ j.n.e.
+
+Joka kykenee käyttämään ja hallitsemaan symboolista painoa, hän esim.
+puhuessaan _siveydestä, puhtaudesta, hyveestä, pelkurimaisuudesta,
+rohkeudesta ja reippaudesta_ herättää kuulijassa sen siveellisen
+vaikutuksen, jota sanat tarkoittavat. _Sanomattoman_ kaipauksen
+epämääräisyys, _äärettömän_ rakkauden koko syvyys tajutaan äänen avulla.
+
+Tätä taitoa koko laajuudessaan ei kukaan voi ainoastaan oppimalla
+oppia. Ne, joiden hengessä on luomiskykyä, kuitenkin tulevat tässä
+annettujen neuvojen johdolla luomaan huomionsa symbooliseen painoon
+ja vähitellen harjoituksen kautta tottuvat äänen värityksellä
+ilmaisemaan kuvaannollisten käsitteiden moninaisuutta ja kaikki,
+yksinpä vähälahjaisimmatkin, opetuksen avulla vähitellen tottuvat
+tekemään havaintoja, jotka johtavat heitä lähemmäksi ajatusten ja
+tunteiden tulkitsemisen suurta taitoa, jota eivät milloinkaan olisi
+voineet saavuttaa, elleivät olisi oppineet tuntemaan symboolisen painon
+tärkeyttä.
+
+
+
+2. Eetillinen paino.
+
+Tämä paino ilmaisee luonteen yksilöllistä mielentilaa, mielialaa,
+sieluelämän syvyyttä ja voimaa. Suurimpia vaatimuksia tässä suhteessa
+asettaa esittäjälle draamallinen runous, koska siinä paljastetaan
+ihmisluonteen kaikki ilmaukset.
+
+Perusääni, kun on puhe äänen värityksestä (siis kvalitatiivisesta
+painosta), ilmaisee kappaleen yleisen luonteen; se niin muodoin tekee
+tajuttavaksi luonteen perusominaisuuden, josta puhuessaan kreikkalaiset
+käyttivät ethos-sanaa, vastakohtana pathos-sanalle. (Pathos = saatettu
+pois tasapainosta.)
+
+_Eetillinen ja pateetinen_ paino määräävät tempon ja käyttävät,
+tehdäkseen tunteen ilmaisemisen täydellisemmäksi ja selvemmäksi,
+välikappaleinaan rytmiä, temppoa, loogillista ja symboolista painoa.
+
+Näitä lausumisen sääntöjä kehittäessäni olen jo huomauttanut, että
+mitä enemmän taide esittää sisällistä elämää, sitä vähemmin voi sitä
+oppimalla oppia. Tämä, koskee etenkin eetillistä painoa, sillä se
+riippuu kunkin kyvystä elää runoelmassa esiintyvän henkilön elämää,
+tuntea hänen tunteitaan, ajatella hänen ajatuksiaan. Mutta ahkeran
+harjoituksen avulla voipi tätä taitoa verrattomasti kehittää, jos
+samalla saapi taitavaa ohjausta.
+
+Samalla kuin loogillisesta painosta puhuessamme myönnämme tosiksi
+Legouvén sanat: »opi ajattelemaan, niin opit _oikein_ lukemaankin»,
+täytyy meidän kvalitatiivista painoa ajatellessamme huudahtaa erään
+saksalaisen kirjailijan sanat: »Wenn ihr's nicht fühlt, ihr werdet's
+nie recht sagen». (Mitä ette _tunne_, sitä ette milloinkaan voi oikein
+lausua.)
+
+
+
+
+IV. KIELEN RYTMIIKKI (oppi poljennosta).
+
+
+Kielen rytmiikillä tarkoitamme tavallisesti sitä tapaa eli järjestystä,
+jolla kielen osat (tavut, sanat, lauseet) seuraavat toisiaan.
+
+Kun vaihtelevaisuus lyhyemmän ja pitemmän aikaa ääntyvien
+(voimakkaammalla ja heikommalla painolla lausuttavien) kielen osien
+välillä on säännöllinen, syntyy _tahti_, joka on välttämättömänä ehtona
+kielen foneetillis-esteetilliselle vaikutukselle. Yksityiset isompiin
+tahi pienempiin ryhmiin kuuluvat tahtiosat erotetaan toisistaan
+_paussilla_. Rytmiikki jakaantuu siis kahteen osaan: tahti-oppiin ja
+paussi-oppiin.
+
+
+
+
+
+Tahti-oppi.
+
+Painollisten ja painottomien kielen osien vaihtelu muodostaa
+_puhe-tahdin_. Jos tämä vaihtelu on määrätyn runomitan mukaan
+tarkasti säännöllinen, syntyy _runo-tahti_. Nopeus, jolla puhe-tahti
+yleisesti ja runo-tahti erittäin antaa erityisten tahti-osien niiden
+individualisuuden eli henkisen sisällyksen mukaan seurata toisiaan, saa
+aikaan _puhe-tempon_.
+
+
+
+Puhe-tahti.
+
+Loogillisen painon avulla saamme käsityksen ajatuksen yhteydestä,
+joka käy selväksi lauserakennuksesta ja sanojen loogillisesta
+suhteesta toisiinsa. Symboolinen paino taas äänen värityksellä tekee
+havainnolliseksi sen vaikutuksen, minkä sanojen käsitteet meissä'
+herättävät. Mutta näiden keinojen avulla ei vielä synny esitykseen
+mitään taiteellista kokonaisuutta, koska edellinen tyydyttää ainoastaan
+abstraktisen ajatuksemme vaatimusta, jälkimäinen taas tekee erinäisten
+sanojen käsitteet havainnollisiksi.
+
+Rytmin avulla vasta saadaan esitykseen eheyttä. Puhuessa sekä
+suorasanaisen lukemisessa esiintyy lausejakso rytmin avulla eheänä
+kokonaisuutena. Siitä syystä on lauseopin ymmärtäminen hyvän lukemisen
+ehto. Jotta suorasanaisen esitys voisi muodostua rytmilliseksi, täytyy
+lukijan tuntea lausejaksojen keskinäinen suhde. Rytmin avulla saadaan
+esitykseen sointuisuutta, joten se vastaa musikaalisiakin vaatimuksia.
+
+
+
+Runo-tahti.
+
+Runo-tahdin oikea käyttäminen edellyttää eri runomittojen tuntemista.
+
+Rytmin tulee aina vähän sointua nousennon ja laskennon avulla,
+mutta lausunnossa ei saa ilmestyä yksitoikkoista tahtia. Tuollaista
+tahdinmukaista lukemista sanotaan runon skandeeraukseksi. Siinä
+esiintyy ainoastaan rytmillinen paino, mutta loogillinen paino jää pois.
+
+Sitä, joka tahtoo oppia hyvin runoja lausumaan, kehotamme runokorvansa
+ja aistinsa kehittämiseksi lukemaan hexametriä, sillä tässä kysytään
+havainnollisuutta, kykyä, käyttää pausseja, levollisuutta, mutta
+samalla vaihtelevaisuutta. Hexametrissä ei esiinny samaa mieltä
+vakaavaa kiihkoa kuin trokaiossa eikä samaa toimintaan kiihottavaa
+eloisuutta kuin jambissa, mutta kuitenkin on siinä runomitassa sekä
+trokaion että jambin ominaisuuksia; siitä syystä siinä esiintyy mitä
+runsainta vaihtelevaisuutta.
+
+Aleksandriinissa ja trimetrissä täytyy runomitan esiintyä
+huomattavammin kuin 5-polvisessa jambimitassa. Trimetriin tuottaa
+jambien ja spondeioin vaihtelu sekä cesuurin käyttäminen kauneutta
+ja vilkkautta. Sitä vastoin tuo kahteen samallaiseen osaan jakauva
+aleksandriini tuntuu yksitoikkoiselta. Suurta taitoa vaaditaan siltä,
+joka tahtoo esittää aleksandriinin niin, ettei tämä yksitoikkoisuus
+esiinny ja ettei rytmi kuitenkaan kadota viehätystään. Yksitoikkoisuus
+syntyy siten, että lukija antaa diaeresiin liian huomattavasti
+esiintyä. Ellei sisällys hallitse runon esitystä, kohoaa ääni lukijan
+huomaamatta joka säkeen lopussa ja siitä syntyy yksitoikkoinen äänen
+helinä, joka vaikuttaa tuskastuttavasti kuulijaan. Suurta varovaisuutta
+kysytään myöskin loppusointujen esittämisessä, ellei runoilija tahdo
+loppusoinnun avulla saada jotain kohtaa runossa erittäin huomattavaksi.
+
+Jako eli cesuuri ja säkeen loppu ovat ilmaistavat lyhyitten paussien
+avulla, vaikka näissä kohdissa ei olisikaan loogillista paussia;
+kuitenkin tulee cesuuria ja säkeen loppua ilmaisevien paussien olla
+ainoastaan keveästi osoittavia.
+
+Paussimerkit: loogillinen osoittava paussi |, pitkä paussi |, säkeen
+loppulepo ja tahtilepoˇ.
+
+    Esim.
+
+        Vallan autuas se, jok' ei nuorena | sortunut maaltaan,
+        Hyljätty onnensa kanss' |ˇ urhoin haudoilta pois.
+        Ei sopis miehenä | näin ˇ mun nuhdella taivahan töitä;
+        Mutta mun syömmeni taas | ˇ tahtovi huoata ees.
+        Kun minä muistan sen yön, jona rakkailta rannoilta luovuin,
+        Nousevat silmiini | nyt ˇ vieläkin | viljavat veet.
+        Ei mun mielestän', ei mee ˇ Pohjolan tunturit, joillaˇ
+        Lasna ma kuuntelin | kuin ˇ sampo ja kantele soi.
+        Siell' eli toimessa mies | ja Väinöstä | lausuivat urhoot,
+        Poiat ja karhut | puun ˇ juurella painia löit.
+        Raittihit talviset säät, revon-tult' | oli taivahat täynnä,
+        Kaunihit katsoa | kuin ˇ aamun alkava koi.
+        Oi, te kesäiset Pohjolan yöt, joina aurinko loistaaˇ
+        Myötään, päilyen veen ˇ vienossa taivahan kans!
+        Teille jos Onnetar sois mun vielä, niin tuntisin kaikki,
+        Saaret ja salmet | ja myös ˇ taivaalla | tähdet ja kuun.
+        Siellä mun mieleni on | ja siellä | mun muinoiset muistoin,
+        Sinne mun kultani jäi, sinne | mun ystävän' myös. —
+        Huoleti kiitelkööt muut |ˇ Alppein seutuja kauniiks.
+        Kauniimpi, kalliimpi on ˇ mulle | mun syntymämaa!
+
+Jos säkeen lopussa on riimi eli loppusointu, niin annetaan sille,
+vaikka olisikin painoton sanaosa, kuitenkin keveä paino, jotta säkeen
+loppupaussi tulee huomattavammaksi kuin mitä se olisi, jos säkeen loppu
+olisi riimitön.
+
+
+    Esim.
+
+        Mun huonehessani seinäll' | onˇ
+        Yks' kuva, halpa ja koruton.
+
+        Mennyttä aikaa | muistelen
+        Niin mielelläni vielä;
+        Niin moni armas tähtönen |
+        Minulle viittaa siellä.
+
+        Jo päättää Vellamon neitonen |
+        Nyt toivonsa turhan kostaa,
+        Ja kosken pohjasta | paatosenˇ
+        Hän äkkiä pintaan nostaa, —
+
+            Istuiko impiˇ
+            Lähtehen luona,
+            Josta hän kerranˇ
+            Kanssani joi?
+            Missä hän mulleˇ
+            Ruusuista rannanˇ
+            Seppeleen solmi,
+            Oi, sano, oi!
+
+Tavu-riimejä lausuttaessa tulee niitä äänenkorkoja vahventaa, jotka
+edustavat alliteratioonia, ja sen ohessa tulee sen konsonantin tahi
+vokaalin, joka alkaa riimisanan, tuntuvasti esiintyä, luonnollisesti
+liiallisuutta karttaen.
+
+    Esim.
+
+            _N_ornan _n_urja _n_uoli
+            _S_urmas _s_ankarini,
+            _R_auhain _r_yösti multa,
+            _K_aatoi _k_allihini.
+
+        Iloisesti _p_äivä _p_aistoi,
+        Suloisesti _k_uu _k_umotti
+        _O_sallisien _o_ville,
+        _K_ansan _k_öyhän _k_ynnykselle.
+
+
+
+Paussi-oppi.
+
+Pausseilla on suuri merkitys hyvään ja kauniiseen esitykseen nähden.
+
+Paussi-opissa erotamme: 1. Hengityspaussit (yhdistyvät
+muihin pausseihin). 2. Lauseen välimerkkien vaatimat paussit
+(interpunktiooni-paussit). 3. Loogilliset paussit ja 4. Emphatilliset
+paussit (kvalitatiiviset paussit).
+
+
+
+Hengitys.
+
+Hengityksessä on säännölliset väliajat eli pidätykset (minuutissa
+noin 20 hengenvetoa). Kuten jo olen maininnut, muodostuu hengitys
+aspiratioonista ja respiratioonista. Sisään hengittäessä täytyy
+äänen, joka riippuu ilman ulosvirtauksesta, katketa. Me tulisimme
+siis tavallisimmasti katkaisemaan puhettamme eli lausuntoamme noin 20
+kertaa minuutissa, joka tietysti ei saa tapahtua, vaan täytyy meidän
+tottua hallitsemaan hengitystämme. Ettei siis aspiratiooni häiritsisi
+lausuntoamme, täytyy meillä täydellisesti olla vallassamme niinkutsutut
+ehdolliset hengitysjäntereet. Ja voidaksemme niitä hallita ja käyttää,
+täytyy meidän luoda tarkka huomio niihin ja hengitykseemme. Sillä
+ainoastaan ahkeran harjoituksen ja hyvän tottumuksen avulla muuttuu
+hengitys semmoiseksi kuin sitä on tahdottu ja käy sitten itsestään.
+
+Ensimmäiseksi tulee meidän siis oppia hengittämään. Tämä asia tuntuu
+niin luonnolliselta, ettei luulisi taiteen tarvitsevan siihen puuttua.
+Kuitenkin on asia niin, ettemme voi lukea hyvin, ellemme hengitä hyvin,
+ja hyvin emme hengitä, ellemme opi hengittämisen taitoa. Kun ylimalkaan
+hengitämme (sisään ja ulos), puristuu ilmavirta keuhkoihin ja niistä
+jälleen ulos tasaisesti ja huomaamatta, mutta tämä ilmavirta ei riitä
+panemaan äänijänteitä väräjämään, vaan täytyy niitä voimakkaammin
+koskettaa. Mitä siis tapahtuu äänen syntyessä? Äänen syntyessä me
+puristamme keuhkoissa olevan ilman ulos niin voimakkaasti kurkkua
+vastaan, että äänijänteissä syntyy se ääni, jota tahdomme muodostaa.
+Mutta tätä tehdessämme käytämme paljon enemmän ilmaa kuin tavallisesti
+hengittäessämme. Kuitenkaan emme voi antaa enempää kuin mitä meillä
+on. Ja se vähä ilmamäärä, mikä meillä tavallisesti hengittäessä on
+keuhkoissamme, ei likimainkaan riitä äänen synnyttämiseen, vaan tulee
+meidän koota ilmaa keuhkoihimme niin riittävä määrä kuin suinkin, ja
+tämä on juuri aspiratioonin kautta tapahtuva. Oikea aspiratioonin
+taito riippuu siitä, että hengitämme syvään ja pääasiallisesti nenän
+kautta, että diafragma (pallea, rinnan ja vatsan välijäntere) tulee
+liikkeeseen. Jos hengitämme ainoastaan keuhkojen yläosalla, niin emme
+saa riittävästi ilmavarastoa, ja seurauksena on että ääni heikkonee
+ja sortuu. Jos silloin on pitempi kappale lausuttavana, niin täytyy
+yhä toistaa, yhä alkaa uudestaan, yhä kertoa, ja väsyttävämpää
+lausuntotapaa tuskin on olemassa; siihen väsyy kuulija kuten lausujakin.
+
+Lausujan ensimmäinen velvollisuus on siis kohta alusta tottua
+hengittämään nenän kautta ja niin syvään ja täydellisesti, että keuhkot
+saavat kyllin ilmaa.
+
+Tulee sitten luoda tarkka huomio myöskin respiratiooniin, joka on
+paljon vaikeampi. Huono lausuja tavallisesti aspireeraa vähän, mutta
+respireeraa sitä vastoin liian paljon, toisin sanoen, hän ottaa sisään
+liian vähän ja tavallisesti hengittää silloin keuhkojen yläosalla
+— naiset etenkin niin tekevät — ja antaa ulos liian paljon. Tästä
+luonnollisesti seuraa että lausujan yhäti täytyy uudestaan hengittää ja
+syntyy ikävä ja kovin rumentava nikotus.
+
+Yllä lausutuista syistä huomaamme kuinka tärkeän aseman hengitystaito
+saa lausuntotaidon onnistumisen suhteen. Hengityssäännöt ovat ainoat,
+joita emme koskaan saa laiminlyödä. Lausuja saattaa unohtaa välimerkit,
+jättää pilkut ja pisteet huomioon ottamatta, mutta hengityksen sääntöjä
+ei hän koskaan saa unohtaa; hengitys tulee hänen aina voida täysin
+hallita. Lausujalla ei ole oikeutta koskaan hengästyä, paitsi silloin
+kuin hän sen kautta esiintuopi tai- teellisesti luodun ja taiteen
+vaatiman effektin.
+
+Saavuttaaksemme tässä sanottua täydellisyyttä, tulee meidän harjoittaa
+niinkutsuttua _hengitysvoimistelua_. Meidän tulee oppia:
+
+a) 1. Hengittämään hitaasti sekä sisään että ulos.
+
+2. Pidättämään hengitystä.
+
+3. Katkaisemaan uloshengitystä. Tämä viimeksi-mainittu on tärkein.
+
+Esim. hitaasti sisään ja ulos aina syvemmin.
+
+Pidättämään hengitystä: 5 — 5 — 10 — 10 sekuntinen paussi eli pidätys
+
+Vähitellen lisäämään paussien pituutta: 10 — 10 — 15 — 15 — 15 — 15 —
+20 — 20
+
+Katkaisemaan uloshengitystä: 5 — 5 — 5 — 5 sekuntinen pidätys
+
+
+Ääniraon tulee pidätyksen aikana olla _avonaisena_.
+
+b) Hengitysharjoituksia numerojen avulla.
+
+Lausu hitaasti aspireeraamatta numerot 1—12; 1—15; 1—20.
+
+c) Lausu hitaasti sanaa, jonka päätavussa on pitkä vokaali, 10, 15, 20
+kertaa hengittämättä.
+
+d) Lausu kokonainen lause hitaasti hengittämättä. Tässä on ensin
+ulotettava lyhyimmillä ja sitten jatkettava pitemmillä ja useammilla
+lauseen osilla.
+
+e) Lausu useampia yhdistettyjä lauseita tällä tavoin ja tee ainoastaan
+kunkin lauseen välissä yksi ainoa pieni pidätys eli paussi.
+
+Aspiratiooni, paussien kestäessä, täytyy olla syvä ja täydellinen,
+mutta samalla niin hiljainen, ettei minkäänlaista hengitysliikettä tai
+kohinaa pääse kuuluviin.
+
+Pisteen paussi riittää kokonaiselle hengitykselle, puolipisteen ja
+kaksoispisteen paussit puolelle sekä pilkkupaussit neljäsosalle
+hengitystä. Vaan lopullisesti täytyy oppia taitavasti käyttämään
+muitakin pausseja lyhyempien hengityksien varalle.
+
+
+
+1. Hengityspaussit
+
+yhdistyvät muihin pausseihin.
+
+
+
+2. Interpunktooni-paussit.
+
+Nämä paussit sulavat yhteen välimerkkien kanssa. Lausunnossa täytyy
+nimittäin huomauttaa välimerkeistä yhtä selvästi kuin niitä kynälläkin
+merkitään. Kuten jo on sanottu, ilmaisee määrätyn ajan kestävä
+pidätys pistettä, pienempi pidätys ilmaisee pilkkua j.n.e., ja
+interpunktiooni-paussien selvyydestä riippuu vallan usein lausunnon
+selvyys, vieläpä hauskuuskin.
+
+Kun ne ovat paussimerkkejä, täytyy niitä lausua niiden paussiarvon
+mukaan.
+
+Pilkku on samanarvoinen kuin 1/4 osa paussia musiikissa.
+
+Puolipiste ja kertomerkki = 1/2 paussia.
+
+Piste, huudahdus- ja kysymysmerkki ovat kokonaisen paussin arvoisia.
+
+Ajatusviiva, sulkumerkin asemasta merkittynä, = 1/2 paussin, vaan
+loogillisena lepopaikkana ollen = kokonaisen paussin arvoinen.
+
+Paussien aika-arvo sekuntien mukaan laskettuna vastaa musiikin temppoa
+yleensä, s.o. paussien pituus riippuu ylimalkaan siitä millainen
+lauseen, välilauseen taikka koko kappaleen temppo on oleva: hidas
+tai nopea. Siis se oikeastaan riippuu sisällyksestä, kappaleen
+individuaalisuudesta.
+
+Mutta interpunktiooni-merkit ovat samassa myöskin äänimerkkejä ja
+kuuluvat niin muodoin myöskin kvalitatiivisen koron eli painon piiriin,
+niinkuin kysymysmerkki, huudahdusmerkki ja ajatusviiva.
+
+Niinkutsutut »pienet pisteet» ovat uuden ajan keksintöä.
+Seitsemännellätoista ja kahdeksannellatoista vuosisadalla ei niitä
+vielä tunnettu nimeksikään. Niitä käytetään etupäässä draamallisissa
+teoksissa. Scribe lienee niiden etevin edustaja ja keksijä. Ne syntyvät
+hänen näytelmäkappaltensa toiminnan nopeudesta, vilkkaudesta ja
+kuumeentapaisesta hätäisyydestä.
+
+
+
+Äänen asema välimerkkien kohdalla.
+
+Ääni alenee useimmiten lauseen lopussa, ellei lauseen viimeinen sana
+vaadi voimakasta painoa, jolloin ääntä on ylennettävä. Esim. Hänen
+isänsä on hyvä ja kunnollinen. Mutta sitä vastoin ylennettävä: Hänen
+isänsä on hyvä ja kunnollinen, mutta olisitpa nähnyt hänen äitinsä.
+Huomaa siis:
+
+a) Ääntä on kannatettava ylhäällä kappaleen sisällyksen vaatimassa
+asemassa siksi kuin lause loppuu.
+
+b) Ääntä tavallisesti ylennetään kysymysmerkin kohdalla eli kysymystä
+sisältävän lauseen loppuosassa.
+
+e) Ajatusviivan, kertomerkkien ja sulkumerkkien kohdalla katkaistaan
+ääni, sitä kuitenkaan alentamatta.
+
+d) Huudahduslauseissa vaihtelee ääniasema usein, riippuen
+sisällyksestä, vaan useimmiten on ääni lau- seen alussa korkeimmillaan
+ja alenee loppua kohden, varsinkin jos lauseen alussa on
+interjektioonisanoja.
+
+
+
+3. Loogilliset paussit.
+
+Nämä jakavat lauseen pienempiin sanaryhmiin, jotka sisällyksensä
+puolesta kuuluvat toisiinsa ja yhdistetyissä lauseissa
+ilmoittavat päälauseen ja sivulauseiden suhdetta toisiinsa. Tähän
+viimemainittuun ominaisuuteen nähden loogilliset paussit noudattavat
+interpunktiooni-pausseja ja yhdistyvät niihin.
+
+Nämä loogilliset paussit, joita kuitenkaan ei saa pitkittää eli
+venyttää tarpeettomasti, eikä myöskään supistaa olemattomiin, ovat
+välttämättömän tarpeelliset, jos mielii lausua niin että toinen
+selvästi ymmärtää lausutun sisällyksen. Sentähden tulee lukijalla
+itsellään myöskin olla luettavansa sisällys aivan selvillä.
+
+Näitten paussien käyttämiseen vaaditaan harjoitusta ja tarkkaa
+huomiota, niiden synty kun riippuu sisällyksestä ja sanojen
+keskinäisestä asemasta. Tavallisimmasti asetetaan loogilliset paussit;
+subjektin ja predikaatin väliin, missä paussit ovat lyhyimmät ja
+huomataan ainoastaan silloin kuin temppo on hidas; subjektin ja
+objektin väliin; kun määräykset seuraavat pääsanaa; sidesanain
+eteen; verbien eteen; vastakohtaisuuden ilmaisemista varten; kahden
+samanlaatuisen sanan väliin (esim. kahden adverbiaalin) j.n.e.
+
+
+
+4. Emphatilllset paussit.
+
+Näitten paussien tarkoituksena on ilmaisia tunnetta ja mielentilaa,
+afekteja. Niinpä esimerkiksi _kauhu_ käy selvemmin huomattavaksi,
+jos se ilmaistaan äkkiarvaamatta esiintyvällä paussilla, samaten
+negatiiviset tunteet häpeä, ujous, hämillään oleminen j.n.e.
+Mielenkiihko ja viha ilmaistaan äänen muutoksella sekä sen ohessa useat
+kerrat uudistetuilla pidätyksillä. Fyysillistä heikkoutta ilmaistaan
+äänen heikentämisellä, mutta myöskin pausseilla, jotka voimain
+heikontuessa yhä pitenevät. Tässä kuitenkin on, kuten aina muutenkin,
+pääsääntönä että tulee noudattaa totuutta; kaikkea liioittelemista on
+välttäminen — sillä nerollisesta esityksestä hullunkuriseen ei ole kuin
+yksi ainoa askel. Tulee siis tarkasti säilyttää hienotunteisuutensa
+tässä kohden, sillä paha tottumus tylsyttää aistin.
+
+Esimerkki: Loogilliset paussit; vastakohdat.
+
+    Kenenkä linna se, jonk' äskettäin ˇ
+    tien varrell' | illan hämärässä näin?
+    Niin komeaa | ei tienoill' ollut toista.
+    Mut' kolkoksi | kuin haudan | muistan sen,
+    ja synkäks', autioksi; akkunoistaˇ
+    vaan valo loisti _yhden_ huonehen (edellyt. vastak.).
+
+    Ma seisahduin | ja katsoin: kartanon ˇ
+    _salista_ | (edellyt.) valo virtas | varjoton.
+    Niin tarkkahan, kuin suinkin näkö jaksoi,
+    sielt' _ihmisiä_ | etsin silmilläin;
+    mut vaivaa tuskin tarkastus se maksoi,
+    ma haamua vaan _kaksi_ siellä näin.
+
+    Ol' _vaimo_ | _toinen_, suruvaatteissaan ˇ
+    _ylevä,_ vaikka _kumarruksissaan_;
+    hopeina | valui pitkät suortuvansa.
+    _Mies_ | _toinen_ oli, mustissa _myös tää_,
+    pää pystyssä, vaikk' ikä | lumillansa ˇ
+    _sen_ | peitti _myös_ (edellyt.); hän | kantoi kynttilää.
+
+    Mä katsoin vielä. | Salin seinähän |ˇ
+    ol' asetettu kuva; taulun _tän_|ˇ
+    likellä | näin ma vielä taulun _toisen_.
+    Kun nainen | ehti niiden etehen,
+    kohotti katsantonsa hän | ja loi sen |ˇ
+    kuin rukoellen j niiden puolehen.
+
+    Ken oli hän? On hetki kulunut:
+    hän mennyt on | ja valo sammunut,
+    kuin kartanossa | kaikki oisi maannut.
+    Kenties | hän oli haamu | rauhaton |
+    tai kuvain kumartaja? Liekö saanut ˇ
+    vieraalla maalla | vieraan uskonnon?
+
+    Ei, haamu | hän ei ollut _rauhaton_ —
+    min näit, se _rauhaisaa_ | ja totta on.
+    Mut' samaa matkaa | jos sa kuljet toiste ˇ
+    sivuitse linnan | samaan aikahan,
+    salista | kohtaa sua sama loiste,
+    ja vanhuksen | näät siellä kulkevan.
+
+    Ja monta ajastaikaa peräkkäin,
+    tään saman palvelijan kanssa, näin ˇ
+    hän ennen yötä | astuu kaikin illoin.
+    Sen hetken päästä | hänt' et nähdä saa;
+    kun hetki _toinen_ kulkee, hän jo silloin |
+    on ottamassa unta | rauhaisaa.
+
+    Ne kuvat, joita siinä katsoivat,
+    ne kaksi Ramsay veljest' olivat,
+    he kasvoivat tään linnan katon alla.
+    _Lemulla_ | _toinen_ sortui kuolemaan,
+    ja _toinen_ | heti jälkeen _Lapualla_,
+    ja kumpainenkin eestä synnyinmaan.
+
+    Heist' urhotöitä taru kertoilee,
+    ja Suomen runo | vielä laulelee,
+    kuin kuoloon nuorna | veljespari moinen |
+    maan eestä voittain | oli lähtenyt,
+    _ykskolmatta_ | kun vuotta oli _toinen_,
+    _yhdeksäntoista_ | _toinen_ täyttänyt.
+
+    Vaan vaimo, jonka veljeksien luo
+    näit hiljalleen | kuin haamun käyvän, tuo |
+    oi' äiti | urho-veljein. Yöt' | ei voinut ˇ
+    hän käymätt' olla muisto-aarteilleen:
+    hän kuvia | ei siellä jumaloinut,
+    hän hyvää yötä | lausui lapsilleen.
+
+
+
+
+V. TEKNILLINEN PUOLI.
+
+
+Tekninen puoli koskee ääntä.
+
+Ihmisääni on kolmenlaatuinen: syvä, väliääni (medium) ja korkea.
+Ne ovat kaikki välttämättömät lausuntotaidon saavuttamiseksi, vaan
+kunkin käytäntö on, ja sen tuleekin olla, varsin erilainen. Kestävin,
+taipuvin ja luonnollisin on medium. Jokaisen ihmisen ääni on
+luonnostaan joko korkea tai syvä. Tenorilla, bassolla, sopraanolla ja
+altolla, jokaisella niillä on luonnollisesti keskivälinen korkeutensa,
+luonnonomainen asemansa jokapäiväisessä puheessa. — Jos ääni siitä
+ylenee kovin paljon, niin se käy kimakaksi ja vastenmieliseksi; jos
+taas kovin alenee, niin se käy kolkon koleaksi. Kumpaakin liiallisuutta
+on tarkasti kartettava.
+
+
+
+Lukemisen sointu.
+
+Sointu riippuu suuresti siitä, missä määrin lukija voi sääntöjen
+mukaisesti käyttää äänivarastoansa ja esiintuoda kappaleen henkistä
+sisällystä, vaan ensisijassa kuitenkin äänen luonnollisista
+ominaisuuksista. Kaunolukijan äänen tulee olla _sointuisan, voimakkaan
+ja kestävän_, sillä tulee olla _laajuutta ja taipuvaisuutta_.
+
+Sointuun vaikuttaa kaksi pääasiaa: äänen täyteläisyys ja puhtaus.
+Jokainen ääni, jolla ei ole luonnonomaisia vikoja, on täyteläinen, kun
+sitä pidetään mediumissa.
+
+Sääntönä äänen kasvattamisesta luonnonomaiseen täyteläisyyteen on:
+
+Seiso vartalo suorana; varsinkin täytyy rinnan, pään ja puhekoneiston
+olla luonnollisessa ja vapaassa asennossa. Anna äänen asettua
+luonnonomaiseen keskiväliseen asemaansa. Hengitä syvään, levollisesti
+diafragmalla. Suu on puhuessa avattava niin että hampaat vähän näkyvät.
+Huulien ja kielen liikkeet olkoot voimakkaat, vaan sen ohessa vapaat.
+
+
+
+Äänen puhtaus.
+
+Puhdas on ääni silloin kuin eivät sekaäänet pääse hämmentämään tai
+heikentämään sen voimaa. Epäpuhdas ääni on käheä ja korahteleva.
+
+Äänen kähäjäminen riippuu usein jänteiden sairaloisuudesta, vaan
+paranee silloin tietysti lääkärin avulla; mutta useimmiten riippuu se
+myöskin puutteellisesta harjoituksesta ja voimistuttamisesta.
+
+
+
+Äänen voima ja kestävyys.
+
+Äänen _voima_ ilmestyy yksinäisten voimakkaiden äänten ilmaisemisessa,
+sen _kestävyys_ niiden jaksottain lausumisessa.
+
+
+
+Äänen kasvatus voimakkaaksi ja kestäväksi.
+
+1) Asettakaa äänenne _medium-asemaan_ ja harjoittakaa sitä ahkerasti
+lausumalla yhä pitempiä kappaleita kerrassaan, _vaan hyvin hitaasti_.
+
+2) Alussa heikosti ja hyvin hitaasti; lisätkää vähitellen voimaa,
+yhä pidättäen ääntänne mediumissa. Tämä on _portamento-harjoitus_ ja
+perustuu vokaaleihin.
+
+3) Lausukaa ensin hitaalla tempolla, jota vähitellen muutetaan
+nopeammaksi; mutta luku ei kuitenkaan saa käydä epäselväksi.
+
+4) Lisätkää sitten vähitellen sekä äänen voimaa että tempon nopeutta.
+
+Tämä on _volubiliteetti-harjoitus_ ja perustuu konsonantteihin.
+
+
+
+Portamento.
+
+Portamento syntyy siten, että lausuja antaa äänen viipyä erityisissä
+kielen osissa ja sitoo äänet toisiinsa saattamalla vokaalit ja
+diftongit voimakkaasti sointumaan. Vokaalien muodostus on niinmuodoin
+portamenton ensimmäinen ehto. Mutta meidän tulee tarkasti erottaa
+toisistaan portamento ja äänen _venyttäminen_, joka viimeksi-mainittu
+on ruma tapa. Venyvä ääni viipyy myöskin yksityisissä kielen osissa,
+mutta viipyy yli määrän, joten lausunto muuttuu pitkäveteiseksi ja
+laahaavaksi. Samalla siitä katoaa sointuisuus, joka ehdottomasti
+kuuluu portamentoon. Laahaava ääni venyttää vähemmän tärkeitä kielen
+osia liiaksi ja siten hävittää oikean suhteen kielen osien väliltä,
+häiriten myöskin ajatuksen yhteyttä. Ääni ei saa vaikuttaa yksinomaan
+sointuisuudellaan, vaan sen tulee vastata sisällystä.
+
+Lausujan, joka on saavuttanut äänenmuodostuksen teknillisen taidon,
+tulisi siitä syystä valita sellaisia kappaleita, joiden kokoonpano,
+sisällys, runomitta ja koko luonne vaatii tyyntä ja hidasta lausuntoa.
+Sellaiset ovat esim. hexametrilla kirjoitetut runoelmat sekä Runebergin
+»Salaminin kuninkaat».
+
+    Aaropa, mielevä mies ˇ olut-astian ottavi hellyin,
+    Katseen nostavi korkeellen, jott' uhkuva kyynel ˇ
+    Silmäst' tuskin kieritä voi, sekä lausuvi riemuin:
+    Kiitos, kunnia Luojallen, joka teille mun ohjas!
+    Monta ma koettanut oon, kamalintapa harmajapäälle ˇ
+
+    Ain' yhä kulkea on | kuni taivaan liitävä pilvi,
+    Konsana | löytämätä ˇ lepopaikkaa kaihoamaista.
+    Mieroa käydessäin' | minä ˇ tuskaa täynn', | useasti
+    Katsoin tieltäni kalmistoon | sekä aattelin: Aaro,
+    Kas, katalimmallai ˇ kyläkunnan tään asujalla ˇ
+    Suojasan aidan tuon sisäpuoll' | on lohtu ja linna;
+    Sultapa tietymätöin, mihin uupuin | painuvi pääsi,
+    Kalman maassaki | vieraaks' jäät, kuten oot elämässä.
+
+                            (Hirvenhiihtäjät.)
+
+
+    Oi onnettoman, kohtaloa! Jumalat,
+    Kosk' ompi väkivallan tulva paisuva ˇ
+    Salpansa löytävä? Vai ettekö te nää |
+    Kuink' aina paha paisuu, hyvää poljetaan.
+
+    — — —
+    Mut' tiedä: verkon saaliilla | niin kauan kuin ˇ
+    Voin lampaan lunastaa | ja viinipisaran,
+    Oot uhritulen niemeltäni näkevä.
+    Ja voimani jos pettää, jos mä merestä ˇ
+    En antimia pyytää voi, niin uhriksi |
+    Mä kakkaan poikki tämän heikon käteni |
+    Ja jumalille | lahjaksi ma poltan sen,
+    Edestä kuninkaani, onnen entisen,
+    Ja että nähdä saisin pojanpoikansa |
+    Ja sukunsa myös täällä vielä loistavan.
+
+                    (Salaminin kuninkaat.)
+
+
+
+Volubiliteetti.
+
+Äänen volubiliteetti taas riippuu lukijan kyvystä lausua sanat ja
+lauseet nopeasti, mutta tarkasti ja selvään. Portamento perustuu
+_vokaalien_ muodostukseen, volubiliteetti taas _konsonanttien_
+muodostukseen. Hidas ja kankea kieli ei pysty keveästi ja nopeaan
+muodostamaan konsonantteja ja siitä syystä se ei kykene täyttämään
+tehtäväänsä silloin kuin tarvitaan taipuvaisuutta. Portamentoa
+kysytään silloin kuin tulee ilmaista ihanteellista tyyneyttä ja
+ylevyyttä, arvokkaisuutta ja miettiväisyyttä, jota vaatii esim.
+epoksen ja antiikkisen runouden esitys. Volubiliteetti sitävastoin
+on välttämätön, kun tahdotaan esittää vilkasta keskustelua sekä
+intohimoa ja tunteenpurkauksia. Ainoastaan ahkeran harjoituksen
+kautta voipi tottua esittämään ylempäin säätyjen keveää keskustelua,
+jossa kartetaan liian huomattavia ja voimakkaita äänenpainoja. Täytyy
+sujuvasti ja luontevasti sitoa toisiinsa eri kielen-osat ja antaa äänen
+keveästi liukua voimakkaiden painojen ohitse. Jos yhden ainoankin
+äänen muodostaminen tuottaa lausujalle vaivaa, tulee kevyt ja sujuva
+keskustelu jossain määrin häirityksi. Sen, joka tahtoo oppia esittämään
+keskustelukieltä, tulee valita luettavakseen esim. keskusteluja
+romaaneista ja näytelmäkappaleista, joissa kuvataan ylempien säätyjen
+elämää.
+
+Volubiliteetti-taito estää intohimoisia tunteita puhkeamasta
+hillitsemättömään, epäselvään sanatulvaan. Harjoituskappaleiksi
+valitaan sellaisia, joissa on nopea temppo, esim. tulipalo Schillerin
+»Laulu kellosta» ja Maria Stuartin puhe Elisabethille, jossa puheessa
+loukatun sydämmen tunteet koskena kuohuvat.
+
+    Kuulkaa, | vaikk'ei tulta näy, |
+    Kellot käy! —
+    Taivaskin
+    Ruskottavi:
+    Päivän rant' | ei hohda niin!
+    Kansa kiljuu:
+    Auki tie!
+    Vettä vie!
+    Tuli patsain läikkyy, liekkuu,
+    Paikoin viihtyy, toisin kiihtyy,
+    Piiput horjuu, hirret jyskää,
+    Maahan | sorttiin pylväät ryskää,
+    Pylväät ryskää, räystäät särkyy,
+    Äidit tyskää, lapset parkuu,
+    Karja vinkuu,
+    Hyppii, sinkuu:
+    Kaikki liehuu, laahaa, liikkuu,
+    Kantamusten alla kiikkuu,
+    Kätten kautta kiitävillä ˇ
+    Ämpärillä ˇ
+    Vettä saadaan ruiskun juoda,
+    Kaarin korkein liekkiin luoda.
+    Ulvoin | joutuu myrsky siihen |
+    Tulen voimaa auttamaan,
+    Liekki lentää aittahan,
+    Tarttuu siellä kuiviin orsiin,
+    Seinähirsiin, paksuin parsiin |
+    Kiitää, telmää sillä pohdin |
+    Että luulis vievän maan ˇ
+    Vakavilta juuriltaan,
+    Töytää taivaankantta kohdin ˇ
+    Vallatoin.
+
+              (Laulu kellosta.)
+
+
+    Maria.
+
+    Ma mieltä maltoin, niinkuin ihminen
+    Sit' tehdä voi. Pois veltto tyyneys,
+    Taivaasen lennä kärsivällisyys!
+    Siteesi katko viimeinkin ja nouse
+    Kätköstäs kauvan pidätetty viha —
+    Sa, joka basiliskin poljetun
+    Varustit murhakatsehella, pane
+    Nyt kielelleni nuoli myrkytetty —
+    — — —
+
+                          Saastutettu on
+    Englannin valtaistuin äpärällä,
+    Pettänyt Brittiläisten jalon kansan
+    On kavala, on ulkokullattu.
+    — Jos oikeus sais vallan, eessäni
+    Te mullassa nyt makaisitte, sillä
+    Englannin kuningatar olen minä.
+
+                  (Maria Stuart.)
+
+
+Äänen laajuus ja taipuvaisuus.
+
+Äänen _laajuudella_ ymmärrämme runsaampaa tai vähempää eriasteista
+äänivarastoa.
+
+Kun ääni mediumissa on saavuttanut tarpeellisen voiman, harjoitetaan
+syvä ja korkea ääni samalla tavalla.
+
+                                     i
+                                   e
+  Skaala-harjoitukset: ääniasemat a medium-asema.
+                                 o
+                                u
+
+Äänen _taipuvaisuudella_ tarkoitamme sitä sujuvuutta ja vienoutta,
+jolla ääni siirtyy ääniasteesta toiseen.
+
+Esim. Äänen tapaamista. Ottakaa joku lause tahi runo; siirtykää
+nopeasti asemasta toiseen, esim. u-asemasta a-asemaan; a-i, e-o, j.n.e.
+
+
+
+Huulten harjoitus.
+
+1. Aukaise suu niin auki kuin mahdollista. Tarkasta kieltä,
+kitaa ja kitalakea, jonka jälkeen suu taas suletaan voimakkaalla
+jäntere-liikkeellä. Uudista tätä harjoitusta useampia kertoja peräkkäin.
+
+2. Aukaise suuta niin paljon että sormi sopii huulten väliin, vedä
+suupieliä toisistaan niin että kumpaakin rajoittaa vertikaaliviiva, ja
+supista sitten huulet jälleen, niitä hieman ulostyöntäen, kuten esim.
+viheltäessä. Uudista usein tämäkin harjoitus ja anna huulten asennon
+vaihdokset käydä nopeasti ja voimakkaasti.
+
+3. Tee samat liikkeet suljetuilla huulilla.
+
+Näitä harjoituksia tulee tehdä joka päivä, pari, kolme kertaa päivässä,
+vaan ei niin kauan kerrallaan että väsyy.
+
+
+
+Kielen harjoituksia.
+
+1. Pidä suu vallan auki ja ojenna kieli suoraan ulos suusta niin kauas
+kuin voit. Vedä sitten kieltä jälleen suuhun nopeasti ja voimakkaasti,
+niin että se asettuu suoraan leveään asemaan suun pohjaa vastaan,
+koskettaen hampaiden alariviä etureunallaan. Pidä tätä harjoitusta
+tehdessäsi huulia ja leukaa niin hiljaa kuin vaan voit.
+
+2. Aseta kielen kärki hampaiden alariviä vastaan ja vedä kieli sitten
+taaksepäin samaten kuin edellisessä harjoituksessa.
+
+3. Pidä kieltä niin litteänä kuin mahdollista, nosta sitten kielen
+kärki hitaasti pystysuoraan asentoon kitalakea kohden ja laske se
+jälleen hitaasti luonnolliseen asentoonsa.
+
+4. Aseta kieli niinkuin edellinen harjoitus neuvoo ja kuljeta siinä
+asennossa ollen kielen kärkeä toiselta sivulta toiselle, niin että sen
+kärki tekee puolikaaren kitalakea vastaan.
+
+Nämä harjoitukset, kuten edellisetkin, ovat tehtävät peilin edessä ja
+joka päivä, vaan ei niin kauan että väsyy.
+
+Aluksi tuntunevat nämät harjoitukset vaikeilta, ehkäpä
+mahdottomiltakin, vaan vähittäin käy kankein ja itsepintaisinkin kieli
+taipuisaksi ja tottelevaksi.
+
+
+
+
+VI. KAUNOLUKEMISEN HENKINEN SISÄLLYS.
+
+
+Otaksukaamme että on olemassa henkilö, jonka puhekoneisto on kaikin
+puolin täydellinen ja hyvä. Hän on harjoituksen avulla muodostanut
+äänensä taipuvaiseksi, tasaiseksi ja kauniiksi. Hän voi käyttää
+syvää, medium- ja korkeaa ääntä aivan sujuvasti ja säännöllisesti.
+Hän aspireeraa ja respireeraa oikein ja aivan kuulumatta. Hän
+ääntää puhtaasti ja artikuleeraa voimakkaasti ja säntillisesti. Hän
+ilmaisee tarkkaan paussit ja hänen esitystapansa ei ole hätäilevä
+eikä hidas, vaan maltillinen ja selvä. Onko hän siis nyt täydellinen
+esittäjä eli lausuja? Ei, hän on ainoastaan virheetön lukija. Hän
+voi selvästi lukea jonkun vuosikertomuksen, komitean lausunnon,
+sanomalehti-kirjoituksen tai muuta semmoista, — ja hyvä se on
+sekin, mutta taiteellista kaunolukua se ei vielä ole. Taiteellisen
+kaunolukijan tulee voida lausua kaunokirjallisia teoksia, ja siihen
+ei selvyys yksin riitä. Siihen vaaditaan luonnonomaisia taidelahjoja.
+Lausunnossa on taiteellinen puoli, jota ei kukaan saavuta ainoastaan
+teknillisen opetuksen avulla. Sen laita on kuten musiikin, jota ei voi
+oppia yhtä säännönmukaisesti kuin matematiikkaa. Sääntöjä tuntemalla
+ja käyttämällä voipi kyllä oppia lukemaan oikein, mutta ei milloinkaan
+taiteellisesti. Jos tahdotaan oppia taiteellisesti lukemaan, täytyy
+sekä opettajalla että oppilaalla olla mielikuvitusta, tunnetta ja
+sisällistä elämää.
+
+Voivatko siis kaikki harjaantua kaunolukijoiksi? Ei samassa ajassa,
+eikä samassa määrässä. Mutta kuitenkin voivat henkilöt, joilla on hyvät
+äänilahjat ja hyvä äly, jotenkin hyviksi harjaantua, vaikka ei heillä
+olisikaan aivan tarkkaa korvaa tunteen ilmauksien vaihtelua käsittämään.
+
+Mihin ominaisuuteen siis perustuu likinnä tämä taide? Luonnonomaiseen
+hienotuntoisuuteen, hienoon korvaan, terävään älyyn ja kauniiseen
+äänilahjaan.
+
+»Lue niinkuin puhutkin», sanotaan. Sopiihan sekin, vaan ainoastaan
+sillä ehdolla että puhutaan hyvin. Tavallisesti kuitenkin puhutaan
+rumasti ja huolimattomasti. Jos puhumme niinkuin luemme, niin puhe
+kuuluu pedanttiselta, jos taas luemme niinkuin puhumme, niin se kuuluu
+huohmattomalta. Löytyy paljon ihmisiä, jotka keskustelevat varsin
+hyvästi, mutta kuitenkin »puhuvat» huonosti. Sen, joka toivoo oppivansa
+hyvin lukemaan, tulee siis oppia hyvästi puhumaan, ja päinvastoin.
+
+Ryhmittele lauseen sanat määrättyyn järjestykseen, erota
+hengityspaussilla, äänenpainolla ja tempolla lauseen pääajatus
+sivuajatuksista, laske tarkkaan edeltäpäin paussien pituus ja paljous,
+tutki loogillisien sekä välimerkkipaussien vaatimukset. Tähän
+lisättäköön, että säännöt ovat ja jäävät säännöiksi, ja vaikkapa ne
+tarpeellisiakin ovat, niin on kuitenkin aina pääasiana oleva se, että
+tulee asettua kirjailijan kannalle, koettaa niin eheästi kuin suinkin
+käsittää hänen ajatuksiaan ja tuntea hänen tunteitaan.
+
+
+
+
+LUKEMISEN LUONNOLLISUUS.
+
+
+Ensimmäinen hyvän lukemisen tunnusmerkki olkoon siis hyvä ja
+luonnollinen puhuminen, semmoinen, joka herättää henkistä
+sulotuntoisuutta. Luonnollisella puhumisella ymmärretään senlaista
+puhetta, joka keveästi ja vapaasti käyttää niitä keinoja: äänenpainoja
+ja äänenväriä, joita tarvitaan puhutun asian sisällystä ja
+tunnevaihettelua ilmaisemaan. Jos sitten puhutun asian sisällys on joko
+iloinen, surullinen, rukoileva, käskevä j.n.e., taikka jos kappale
+sisältää selityksen jostain asiasta, keskustelua tahi muuta semmoista,
+tulee sitä semmoisella äänellä ja painolla esittää, että kappaleen
+vaihetteleva sisällys käy kuulijalle selväksi.
+
+Meidän on myöskin muistaminen, ettei esitykseen saa vaikuttavaa
+luontevuutta, _elleivät kasvojen ilmeet kuvaa sisällystä_. Mutta
+jos esittäjä kvantitatiivisesti ja kvalitatiivisesti käsittää
+luetun sisällyksen, niin mimiikki johtuu itsestään ilman erityisiä
+voimanponnistuksia, kuten tavallisessakin puheessa.
+
+Niinkutsuttu mekaaninen sisäluku on sanain ja lauseiden yksitoikkoinen
+lukeminen, kerrassaan vaihettelemattomalla äänellä; sitä ei koskaan
+tapaa luonnollisessa puheessa. Jos silloin tarkkaa lukijan kasvoja,
+huomaa että ne ovat melkein liikkumattomat, ja siitä syystä hänen
+esityksensä tuntuukin aivan luonnottomalta.
+
+Vaan tätä yksitoikkoisuutta välttäessään tekee tottumaton lukija usein
+toisen, ikävämmän virheen: hän panee virheellisen painon. Koettaessaan
+saavuttaa tarpeellista äänenvaihettelua, panee hän toisia äänenpainoja,
+äänivaihetteluja ja pausseja, kuin mitä kappaleen sisällys ja
+luonnollinen puhe vaatii.
+
+Kuuluuko, tuntuuko, sointuuko tämä luonnolliselta? Tämä tulee olla
+alkavan lukijan ensimmäinen ajatus, kysymys ja huoli, sovittaessaan
+kaunoluvun sääntöjä omaan lukemiseensa. Sointuako lausuttu lause
+niin vapaalta ja luonnolliselta, kuin puhuttu lause? Jos se sointuu
+vapaasti, keveästi ja luonnollisesti, niin se on oikein lausuttu, vaan
+jos se ei soinnu, niin silloin on joko loogilliselle painolle taikka
+tunnetta ilmaisevalle painolle tai pausseille annettu liian suuri
+tai liian pieni vaikutusvoima, eikä ole tarkasti sitä ilmaistu, mitä
+kappaleen sisällys vaatii ilmaisemaan. Tulee siis jatkaa harjoitusta
+kunnes lausunto käy luonnolliseksi, vapaaksi ja kappaleen sisällykseen
+mukaantuvaksi.
+
+Jos esim. on ylevämpää ainetta käsittelevä kappale lausuttavana,
+ei tietysti siinä sovi se jokapäiväinen puheääni, jota käytetään
+jokapäiväisistä ja vähäpätöisistä asioista puhuttaessa.
+
+Ihmisen sisällinen tila, hänen mielikuvituksensa ja tunteensa,
+hänen halunsa, himonsa ja mielialansa eivät ilman ainoastaan
+hänen äänessänsä, vaan myöskin äänen erinäisessä painossa,
+korkeudessa, täyteläisyydessä ja syvyydessä sekä myöskin lausunnon
+kiiruullisuudessa, hätääntymisessä tai rauhallisuudessa.
+
+Esim. kun lausutaan käskyä taikka puhutellaan kaukana olevata henkilöä,
+niin on ääni korkealla, mutta rukousta lausuttaessa on ääni keskusääntä
+alempana, esim. 0a asemassa.
+
+Tavallisella äänellä eli medium-äänellä lausuttaessa on temppo kuten
+äänikin tavallisen tasainen, samaten noudattaa temppo aina äänen
+korkeutta, niin että korkealla äänellä lausuttaessa on myös temppo
+vilkkaampi, matalammalla äänellä on temppo hitaampi, j.n.e.
+
+Liikettä tahi toimintaa saatamme esittää ainoastaan tempon avulla.
+
+Temppo-merkkejä: nopea temppo (¨), tavallinen temppo (--), hidas temppo
+(—).
+
+Esimerkki:
+
+    --Tykin vierehen-- | —vaipui— --vihdoinkin,--|
+    —makas' siinä maass',— |
+    --mut' kun vihamies | tuli patterihin,-- |
+
+    ¨ylös karkas taas,¨
+    ¨huus' miehillensä | ja hyökkää' päin,¨ |
+    ¨avas tien | läpi joukkojen piirittäväin,¨ |
+    —ja kaatui vasta,— --kun ehti-- ˇ
+    --väen riemuvan luokse näin.--
+
+       --Kun nainen | ehti niiden etehen,-- |
+       —Kohotti— --katsantonsa hän | ja loi sen-- |
+       —kuin rukoellen— | --niiden puolehen.--
+
+    —Eik' aikaakaan, niin liekin jo on levinnyt—ˇ
+    —niin kauas leimahtain | kuin silmä kantaa;—
+    --sanoja lentää, | uusia taas lähtee nyt,--
+    --takaisin | kääntyy joukot, pois jo käsketyt,--
+    --ja Hertzenkin jo ryntää vasten rantaa.--
+    --Kaikk' esteet | sortaa voittokulku tuo,--
+    --jo katkaistu on sotavoima suuri,--
+    ¨ja avuks' | Turun urhot rientää luo,¨
+    ¨ja Gripenberg | hän Hämeen poikiansa tuo¨ˇ
+    ¨hurraten, rivit vankkana kuin muuri.¨
+
+
+
+
+HUOMAUTUKSIA ERILAISTEN TUNTEIDEN ESITTÄMISESTÄ.
+
+
+Tunteet saatamme jakaa kahteen ryhmään: muodollisiin ja laatuperäisiin
+eli kvalitatiivisiin tunteisiin. Näiden lisäksi on olemassa
+mielentiloja, jotka aina jossain, määrin ovat sairaaloista laatua;
+niitä sanomme afekteiksi.
+
+Muodolliset tunteet ovat kolmea laatua:
+
+1. 'Virkistys' ja sen vastakohta 'rasitus', 'vaivaantuminen'.
+
+2. 'Mielihyvä' ja sen vastakohta 'mielipaha'.
+
+3. 'Odotus' ja sen vastakohta odottamattoman tapauksen aikaansaama
+'hämmästys'.
+
+'Virkistys' on mieluisa tunne. Sitä ilmaistessa tulee puhua vilkkaasti,
+keveästi, mutta ei hätiköimällä. Ääni iloinen ja raikas.
+
+'Rasitusta', 'vaivaantumista' ilmaisee raskas temppo, lyhyet paussit,
+syvä ääni ja vaivaloisesti ponnistamalla lausutut sanat.
+
+'Mielihyvää' ilmaisee vilkas temppo ja raikas ääni, jotavastoin
+'mielipaha' ilmaistaan puhumalla hitaasti, ikäänkuin empien ja
+viivyttelemällä, sekä käyttämällä emphatisia pausseja.
+
+'Odotusta' esitettäessä tulee äänen ilmaista levottomuutta. Jos odotus
+on iloista laatua, luokoon toivo ääneen iloisuutta, sillä odottaja
+ajattelee mielihyvällä toivottua tapausta. Jos taas odotukseen
+sisältyy surua ja tuskaa, tulee hitaalla tempolla osoittaa, kuinka
+vastenmielistä odottajan on kuvailla pelättyä tapausta mahdolliseksi.
+
+Odotuksen vastakohta on 'hämmästys'. Joko hämmästys on iloista tahi
+ikävää laatua, tulee sitä aina ilmaista siten, että ääni alussa
+ikäänkuin tukehtuu. Jos hämmästys on odottamattoman ilon aikaansaama,
+muuttuu puhe yhtäkkiä vilkkaaksi, temppo kevyeksi. Mutta jos hämmästys
+on äkkinäisen surun synnyttämä, pysyy ääni edelleen tukehtuneena,
+temppo käy yhä hitaammaksi ja paussit pitenevät. Tahi myöskin, kun
+henkilö, jota tuska on odottamatta kohdannut, on hetken aikaa henkeään
+pidättäen ollut ääneti, alkaa hän äkkiä puhua kiihkeästi, joka osoittaa
+että tuska on saanut hänen mielensä pois tasapainosta.
+
+Kvalitatiiviset tunteet jaamme kuuteen ryhmään: 'älyllisiin',
+'esteetillisiin', 'moraalisiin' ja 'uskonnollisiin' tunteisiin, joihin
+liittyvät myös 'itsetunto' ja 'myötätunto'.
+
+'Älyllisiä' tunteita ilmaistaan yleensä kirkkaalla, puhtaan
+sointuisalla äänellä. Mielihyvää, jonka totuus meissä herättää,
+ilmaisee iloinen ääni, mutta erhetyksen tuottama suru sortaa äänen
+alakuloiseksi. Älyllinen tunne on myöskin se tyydytys, jonka tuottaa
+ajatustyön tahi jonkun taitavuutta kysyvän tehtävän onnistuminen.
+Tällainen kevyt, riemuisa tunne esiintyy usein eepillisissä ja
+draamallisissa runoelmissa. Tämän tunteen vastakohtaa, arkuutta,
+epävarmuutta, itseluottamuksen puutetta kuvataan tietysti
+päinvastaisella äänensävyllä sekä hitaammalla rytmillä.
+
+'Esteetillisten' tunteiden alana on _kauneuden_ maailma. Sellaisia
+tunteita ovat ihailu, vastenmielisyys, inho. Nämä luovat aina jossain
+määrässä kiihtymystä puheeseen. On olemassa kolme esteetillistä
+perustunnelmaa: suloisen synnyttämä _ilo, ylevän_ aikaansaama
+_innostus_ ja _koomillisen_ herättämä _ilostuminen_. Suloinen synnyttää
+meissä niin mieluisan tunteen, että sekä äänen sävyssä että tempossa
+ehdottomasti ilmenee väreilevää eloisuutta. Erityinen suloisuuden laji
+on sellainen, joka herättää _mielenliikutusta_. Se esiintyy monessa
+muodossa, etenkin ilmenee se usein elegiassa ja luopi surunsekaista
+suloa ääneen. Tällaisessa runoudessa esiintyy milloin vienoa hellyyttä,
+milloin taas syvyyttä, milloin liikuttavaa sydämmellisyyttä, ja
+silloin, jos koskaan, täytyy lausujan tuntea, voidakseen runossa
+esiintyvää tunnetta ilmaista. Ylevä herättää juhlallisen, ihailevan
+mielialan taikka myös pyhää pelkoa. Juhlallista tunnetta ilmaisee
+voimakas, sointuisa ääni ja portamento; temppo on oleva juhlallinen.
+Pyhää pelkoa kuvaa nöyryyttä ilmaiseva ääni ja viivyttelevä
+lausumatapa. Äänessä ei saa ilmaantua huolestumista eikä surkeutta.
+
+'Koomillisuuden' synnyttämät tunteet ovat erityinen ryhmä esteetillisiä
+tunteita. Niitä tulee useimmissa tapauksissa esittää raikkaalla
+eloisuudella. Koomillisuuden aikaansaamaa hämmästystä kuvaa paussi,
+jota tavallisesti äkkiä seuraa iloinen nauru. Joskus on luetun sisällys
+sitä laatua, että esittäjän täytyy sekä nauraa että itkeä, mutta joka
+ei osaa nauraa ja itkeä todenmukaisesti, älköön tehkö sitä ensinkään.
+Muutamissa tapauksissa on sisällys sitä laatua, että lukijan tulee
+pysyä _totisena_, vaikuttaakseen koomillisemmin. Niin on laita etenkin
+saduissa ja kertomuksissa, mutta etenkin draamoissa. Sellaisissa
+tapauksissa tulee panna sanoille selvä ja huomattava loogillinen paino.
+
+'Moraaliset' tunteet ovat _hyvyyden_ maailmasta. Tällaisia ovat
+siveellinen innostus, siveellinen viha, mutta myöskin siveellinen
+liikutus. Ihailua, jonka jalo teko meissä herättää, on kuvattava
+äänellä. Moraaliset tunteet luovat ääneen jossain määrin
+juhlallisuutta. _Tahdonvoimaa_ ilmaistaan tyynellä ja itsetietoisella
+voimalla, _oikeudentuntoa_ selvällä äänellä ja korollisella
+esityksellä, _oikeutta_, joka kostaa pahan ja palkitsee hyvän,
+juhlallisesti. Erittäin vaikuttava on ääni, jota hallitsee puhdas
+ja vilpitön _hyväntahtoisuus_. Tuon tyyneen, kirkkaan, levollisen
+ja sovinnollisen sävyn saapi ääni ainoastaan silloin kuin mieli
+täydellisesti _ymmärtää_ toisen mielen.
+
+'Uskonnollisia' tunteita esitettäessä on äänessä yleensä
+juhlallisuutta, mutta kuitenkin luovat eri tunteet: kiitollisuus,
+rukous, luottamus, toivo, katumus, eri vivahduksia ääneen. Näitä
+tunteita tulee ilmaista vilpittömästi, koruttomasti, tyynesti ja
+lempeällä arvokkaisuudella.
+
+'Itsetunnon' perustuksena on tieto omasta arvosta. Kun tämä tunne
+kiihtyy, johtaa se oman itsensä ihailuun, ylpeyteen, vallanhimoon,
+joita tunteita ilmaistaessa siis tulee käyttää kaikkia niitä
+keinoja, joilla kuvataan itsetuntoa, mutta niiden tulee esiintyä
+jyrkemmässä ja voimakkaammassa muodossa. Painot voimakkaat, puhetapa
+katkonainen, äänessä tylyyttä, kovuutta, jopa ivaakin. Tällaisten
+tunteiden vastakohtina ovat nöyryys, arkuus, tunto siitä että tahto
+on heikko, j.n.e. Niitä ilmaistaessa on temppo hidas, ääni pehmeä
+ja epävarma. _Jaloa_ itsetuntoa kuvattaessa ei äänessä saa olla
+vähintäkään ylpeyttä, sillä se hävittää kokonaan ylevän vaikutuksen.
+_Myötäkuntoisuus_ on joko _sääliväisyyttä_ tai _osanottoa toisen
+iloon_. Sääliväisyyttä kuvaa syvä, sydämmellinen äänensävy, jossa ei
+saa esiintyä vähääkään teeskentelyä eikä liioittelua. Iloista osanottoa
+ilmaistaan vilkkaasti ja lämpimän innokkaasti. Näiden tunteiden
+vastakohtina ovat ylimielisyys, vahingon ilo, teeskennelty osanotto,
+joita kaikkia tulee, sisällyksen mukaan, joko voimakkaammin tahi
+vähemmän voimakkaasti esittää. Ääni on oleva joko kumea, katkera ja
+pilkallinen tahi kavalan lempeä ja ystävällinen.
+
+Afektit syntyvät joko siitä, että joku tunne, esim. viha, valtaa mielen
+niin, ettei ihminen kykene itseänsä hillitsemään, tai myöskin syntyvät
+ne siitä, että kaikki tunteet tukehtuvat, esim. kauhun vaikutuksesta.
+Jotta voisimme kuvata afekteja, tulee meidän tarkasti tutkia kuinka ne
+elämässä ilmenevät ja esittää ne todellisuuden mukaan niin tarkasti
+kuin mahdollista. Samalla täytyy koettaa asettua henkilön mielentilaan
+ja äänellä sekä puheen rytmillä kuvata sitä. Täydellisesti saapi
+afekteja tuoda esiin ainoastaan näyttämöllä. Lausuessa täytyy ne
+esittää jossain määrin hillittyinä.
+
+Afekteista, jotka liittyvät _muodollisiin_ tunteisiin, mainittakoon
+_ilo_ ja _riemastus_. Vilkkaat huudahdukset, korkeampi ääniaste,
+tempon huomattava nopeus ovat ilon tunnusmerkkejä. Syvä surumielisyys,
+kiihkeät, myrskyiset tuskan purkaukset ilmaisevat ilon vastakohtaa.
+_Odotus_ voipi pitkittyneenä muuttua _kärsimättömyydeksi_. Sitä kuvaa
+nyrpeä ääni, nopea temppo, jota keskeyttävät äkkinäiset paussit ja
+huudahdukset, jotka ikäänkuin kiirehtivät odotettua.
+
+'Hämmästys' taas voipi muuttua _pelästykseksi, kauhistukseksi_, joka
+on kamalimpia afekteja, ja se saattaa johtua sekä mieluisesta että
+vastenmielisestä tapauksesta, joka mielen yllättää. Huudahdukset,
+usein kimakat huudot, katkonainen, epäselvä ja sammaltava puhe, äkkiä
+lausutut sanat ja sulkeutunut, jopa kaiuton ääni ovat kauhistuksen
+ilmaisukeinoja. Tässä kysytään tietysti suurta taitoa ja tottumusta,
+jotta esitys voisi tulla todelliseksi ja vaikuttavaksi; taitamaton
+esitys herättää naurua.
+
+Kvalitatiiviset tunteet _toivo, huoli, epäilys_ voivat, muuttua
+afekteiksi, jotka joksikin aikaa saattavat henkilön pois tasapainosta.
+Hillitön toivo voipi muuttua _haaveiluksi_, liiallinen huoli _tuskaksi_
+ja epäilys _epätoivoksi_.
+
+'Haaveilua' kuvaa juhlallinen, innokkaan sointuisa ääni ja nopea,
+sujuva temppo; tuskaa ilmaisee kangertava puhe ja puristettu, tuon
+tuostakin tukehtuva ääni. 'Epätoivoa' todistavat syvät huokaukset ja
+tuskan huudot. Toivotonta mielialaa kuvaillaan kolkolla, kaiuttomalla
+äänellä ja katkonaisesti lausutuilla sanoilla.
+
+Kaikkia näitä afekteja tulee eepillistä ja lyyrillistä runoutta
+esitettäessä lieventää ja hillitä; ainoastaan draamallisessa runoudessa
+ne saavat esiintyä koko voimallaan.
+
+Nuoria henkilöitä, varsinkaan lapsia, älköön pakotettako esittämään
+afekteja, eikä yleensä voimakkaita tunteen purkauksia. Iloisempi tahi
+synkempi äänenvälitys sekä nopeampi ja hitaampi temppo jo riittävät
+kuvaamaan runon yleistä luonnetta tahi tunteen laatua. Sitävastoin
+on selvää, että opettajan itsensä, _jos hänellä on siihen kykyä_,
+tulee ujostelematta, sielunsa koko voimalla esittää tunteita ja
+afekteja. Mutta hänen tulee aina pysyä valppaana ja olla arvostelussaan
+ankara itseänsä kohtaan, voidakseen esittää tunteet koruttomasti ja
+liioittelematta, mutta todenmukaisesti ja vaikuttavasti. Muuten hän
+auttamattomasti vahingoittaa.
+
+'Esteetilliset' ja 'uskonnolliset' tunteet voivat muuttua
+mielentilaksi, jota sanotaan _ekstaasiksi_ eli haltioissa oloksi, jos
+kauniin ihaileminen valtaa koko sielun ja mielen. Tätä mielentilaa
+kuvaavat äänekkäät huudahdukset tai sanattomaksi joutuminen, mutta
+myöskin äänessä ilmenevä lämpö ja autuaallinen ihastus.
+
+Moraalinen mielipaha voipi muuttua _häpeäksi, kiihkeäksi katumukseksi_,
+mutta myöskin _epätoivoksi_.
+
+'Häpeän' ulkonaisina ilmaisukeinoina ovat lyhyemmät tahi pitemmät
+paussit, epäröivä, matala, melkein kuiskaava ääni. 'Katumusta'
+ilmaistaan valittavalla äänellä ja äkkinäisillä huudahduksilla.
+
+'Itsetuntokin' voipi muuttua afektiksi, jos loukkaus synnyttää mielessä
+_raivoa_. Samaten saattaa tuska, katumus, inho syntyä siitä, että
+itsetunto on heikontunut ja henkilö tuntee oman yksilönsä ikäänkuin
+kutistuvan.
+
+Raivoa ilmaisee kiihkeä sanatulva, meluava, uhkaava puhetapa;
+itsetunnon heikontumista taas kuvaa vapiseva, melkein lamaantunut ääni.
+
+Näitä kuten kaikkia muita afekteja kuvatessaan täytyy esittäjän
+noudattaa tervettä järkeään ja hyvää aistiaan, jotta hän ei
+eksyisi liiallisuuksiin ja luonnottomuuksiin. Draama suopi sijaa
+ankarimmillekin mielenpurkauksille, samaten myös balladi, vaikka
+kuitenkin vähemmässä määrässä.
+
+Vielä sananen _liikuttavasta_. Esteetillisten tunteitten alalla
+ilmaisee liikutusta väräjävä ääni, jossa ilo ja suru ikäänkuin
+taistelevat keskenään. Moraalinen liikutus vaatii syvää, jopa
+juhlallista ääntä. Jos liikutus syntyy sellaisesta, joka on herättänyt
+meissä myötätuntoisuutta, luopi se ääneen vienoa sydämmellisyyttä sekä
+jaloa, mutta hillittyä innostusta.
+
+Mainittakoon muutama sana 'tahdosta'. Tahtomisen eri asteita ovat
+_halu, toivo, kaipaus, mieliteko, himo_.
+
+'Halua' kuvattaessa lausutaan toivomus painolla ja riuduttavan
+kiihkoisesti sekä kaihoavalla äänellä. 'Tahto' puhuu voimakkaasti,
+päättäväisesti ja valitsee käskevän puhetavan silloin kuin puhujalla
+on oikeus vaatia jotain. Mutta tahdonkin ilmauksissa on monta eri
+astetta. 'Rukoilevakin' ääni voipi olla käskevä. Varsinaisessa
+rukouksessa ja käskevässä rukouksessa on se erotus, että jälkimäisessä
+tapauksessa rukoilija tietää että hän varmasti voipi saavuttaa sen,
+mitä hän tahtoo. Tämä tieto ilmenee äänessä ja luopi rukoukseen tuon
+kaikki voittavan voiman. Erehdystä on luulla, että käskyä muka voidaan
+ilmaista ainoastaan äänen voimalla ja huudolla. Äänen voima tietysti
+riippuu luonteesta, mielialasta ja koko persoonallisuudesta, mutta
+tahto ilmenee enemmän _painossa_ kuin äänen _voimassa_.
+
+'Mieliteko', 'taipumus', 'himo' ovat kestäviä sieluntiloja, jotka
+kiihtyneinä muuttuvat afekteiksi, joita ei enää saata hillitä. Himo
+semmoisenaan ei ole afekti; se on pysyväinen ja kiihkeä halu, joka
+on lakkaamattomasti suunnattuna samaan esineeseen. Esim. pelihimo ja
+juomahimo.
+
+'Himoa' kuvattaessa tavallisesti lausutaan sanat venyttämällä, puhutaan
+kiihkeän intohimoisella äänellä ja tummalla äänivärillä, käyttämättä
+paljon voimaa.
+
+'Rakkaus' ja 'viha' ovat sukua toisilleen siinä, että molemmat tahtovat
+omistaa esineensä, — rakkaus iloitakseen siitä ja viha hävittääkseen
+sen. Rakkaus ei semmoisenaan ole tunne, mutta siihen yhtyy tunteita
+sellaisia kuin mielihyvä rakastetun omistamisesta tai mielipaha siitä,
+että täytyy kieltäytyä omistamisesta. Samoin on vihan laita. Viha
+saattaa kohdistua ihmisiin, eläimiin tai esineihin ja sen syynä on
+silloin joko vastenmielisyys tahi luulotellun taikka todellisesti
+kärsityn vääryyden tai vahingon muisto. Silloin se on väärä ja
+hyljättävä tunne, joka ilmenee tavallisesti 'kostonhimona'. Sellaista
+tunnetta ilmaistaessa on äänessä katkeruutta, inhoa, ivaa, ilkeyttä ja
+vahingon-iloa. Luvallinen on sitä vastoin pahan vihaaminen, joka viha
+ei kohdistu _henkilöihin_.
+
+Rakkaus saapi sointumaan ihmissydämmen hellimmät kielet ja se
+käyttää ilmaisukeinoinaan ihmisäänen kauneimpia säveleitä. Rakkautta
+ilmaistaessa on äänessä suloutta, vienoa hellyyttä ja hehkuvaa lämpöä;
+ääniasema saattaa kohota ja laskea äärimmäiseen asti ja puheen rytmissä
+sekä tempossa on vilkasta vaihtelua. Mutta koko esitykseen luopi
+erityisen luonteensa tuo suuri salaperäinen voima, joka ihanimpana
+ilmestyy rakkaudessa Jumalaan ja ihmiskuntaan.
+
+Nämä ovat vaan yleisiä viittauksia erilaisten tunteiden ja afektien
+ilmaisutapoihin. Muuta ei voidakaan antaa kirjassa. Opettajan asia on
+käytännössä parhaansa mukaan ohjata oppilaita ilmaisemaan eri tunteet
+oikein ja johdonmukaisesti sekä karttamaan kaikkea luonnottomuutta ja
+liioittelua.
+
+
+
+
+RUNOUDEN LAUSUNNOSTA.
+
+
+Tuohon kysymykseen: »kuinka runoja on lausuttava?» vastataan useasti:
+»niinkuin suorasanaistakin lausutaan», — ja tätä noudattaen koetetaan
+siis lausuessa tasoittaa pois kaikkea erittäin runolle ominaista,
+joten saadaan muodostumaan sellaista, joka ei ole suorasanaista eikä
+runoakaan, vaan molempia sekaisin, ja se lukemistapa tekee tavallisesti
+kuulijaan mitä ikävimmän vaikutuksen. Toiset taas, »totuutta»
+tavoitellen, heittävät tavut, riimit, rytmit sikseen ja lausuvat
+ainoastaan oman tunteensa mukaan, taikka tekevät itsensä syypääksi yhtä
+ikävään virheeseen: koettavat ainoastaan saada _runotahdin_ oikein
+voimakkaasti esiintymään.
+
+Näitten erhetysten välttämiseksi huomautettakoon: että lausunto-taito
+ei milloinkaan ole niin vaikea eikä niin välttämätön kuin juuri runoja
+lausuttaessa, sekä että ainoastaan pitkällinen harjoitus tuottaa
+taitavuutta. Runoa tulee tietystikin lausua runona, vaikka ilman
+skandeeraamista, ja esittää niin kuin runoilija on sitä ajatellut ja
+tarkoittanut. Lausuja antakoon rytmin kannattaa runollista sisällystä
+niin että sen siveellinen vaikutus valtaa meidän mielemme eikä
+huomiotamme kiinnitetä runoelman kokoonpanoon ja kaunistuskeinoihin.
+
+Runon lausujan tulee asettua runoilijan hengenheimolaiseksi, joka
+häntä täysin ymmärtää, tuntien runoilijan ajatusjuoksun, mielialan ja
+tunnelman.
+
+Sitäpaitse ei saa unhottaa että on yhtä monta tapaa lukea runoja kuin
+tehdäkin runoja. Ei siis sovi että Runebergiä esitetään Shakespearen
+tapaan, tai Moliere'a Schillerin tapaan j.n.e. Kutakin runoilijaa
+esitettäköön aina niin kuin runotuotteen omituinen luonne vaatii.
+
+Lausunnon tulee siis, ollaksensa hyvä, aina tarkasti esittää, ilmituoda
+sitä luonnetta, joka milloinkin on ilmituotavana. Kun oodia luetaan
+fabelin tavoin, lyyrillistä kappaletta niinkuin eepillistä tai
+päinvastoin, niin verhotaan kirjallisuuden rikasta vaihettelevaisuutta
+yksitoikkoisuuden harmaalla harsolla. Kumoamaton, muuttumaton on siis
+aina se sääntö kaikkiin kappaleihin nähden, että kun luet runoilijan
+teosta, niin ole runoilija, kun luet esittelyä, ole esittelijä
+j.n.e. Kun kappaleessa on rytmiä, anna rytmin vähän kuulua, kun on
+riimiä anna riimin vähän soida, kun kappale sisältää musiikkia, ole
+musiikkitaiteilija, tai maalauksia, kuvauksia, ole maalari ja lue
+kuvailevasti.
+
+Kuvailevasti ei opi lukemaan kukaan, jonka äänessä ei ole metallin
+sointua (timbre). Tämä saattaa olla kullan, hopean tai teräksen
+sointua. Kultaäänessä on loistoa, hopeaäänessä suloisuutta,
+teräsäänessä helkettä ja voimaa, mutta joku näistä kolmesta on
+välttämätön. On vielä samettiääni, mutta se voi esiintyä ainoastaan
+metalliäänen yhteydessä. Jotta samettiääni voisi viehättävästi sointua,
+täytyy sen olla metalliääneen yhdistettynä, sametti ylimpänä, metalli
+pohjalla. Ilman metallia on samettiääni ainoastaan pumpulia.
+
+Joku ehkä varottaa teitä: »olkaa varuillanne, ettette käy
+pateetilliseksi ja ettette unhota noudattaa luonnonomaista
+todellisuutta». Mutta täytyy myös muistaa ja käsittää, että
+todellisuus on laajempi kuin mitä pedantit voivat käsittää, ja että
+yliluonnollisuuksillakin on luonnollisuutensa.
+
+
+
+
+ERI RUNOLAJIT.
+
+
+Sen, joka tahtoo oppia hyvin puhumaan ja lukemaan, tulee tarkasti ja
+johdonmukaisesti kaikissa kohdissa noudattaa puhetaidon sääntöjä. Mutta
+luonnollista on, kuten jo olen sanonut, että ne täytyy sovittaa eri
+tavalla eri runouden lajeihin. Ala, jota runous kulloinkin käsittelee,
+luopi tietysti omituisen luonteensa runouden lausuntoon. Sääntöjen
+sovittamisessa yksityiskohtiin ei saa menetellä mielivaltaisesti,
+vaan tulee muistaa, että kullakin runouden päälajilla on omituinen
+luonteensa, jota lausujan tulee tutkia ja joka hänen tulee ottaa
+ohjeekseen. Niinpä erotamme toisistaan _eepillisen, lyyrillisen ja
+draamallisen_ runouden esityksen.
+
+Koska eepillinen ja lyyrillinen runous yhtyy draamassa, tulee
+eepillisen ja lyyrillisen runouden lausumistavan ikäänkuin sulaa yhteen
+draaman esityksessä. Eepillisen ja lyyrillisen runouden lausunto on
+ikäänkuin valmistuksena draaman esitykseen. Ei kukaan voi kehittyä
+taitavaksi draaman esittäjäksi, ellei hän ole tarkan suunnitelman
+mukaan harjoittanut eepillisen ja lyyrillisen runouden lausuntoa ja
+niihin täydellisesti perehtynyt.
+
+
+
+
+
+Eepillisen runouden esitys.
+
+
+Eepillistä runoutta tulee lausua niin että runoilijan kuvaamat
+tapaukset esiintyvät kuulijalle runollisena kertomuksena, mutta ei
+runoilijan omina elämänkokemuksina. Lausuja tietysti esittää niitä
+tunteita, joita kerrottava tapaus on hänessä herättänyt, mutta hän
+pysyy koko ajan omana itsenänsä. Hän kuvaa oikealla äänivärityksellä
+hellyyttä, kauhua, intohimoa, mutta hän ei esitä niitä omaan itseensä
+kuuluvina. Sanalla sanoen: hän pysyy aina kertojana. Kertovaisen
+runon lausuja ei koskaan saa niin kiihtyä, että hän unohtaisi oman
+itsensä ja esittäisi kuvattavan henkilön mielenliikkeet ominaan. Äänen
+vaihtelu ja temppo ainoastaan osoittavat minkä vaikutuksen runoelma
+on tehnyt häneen, ja hän vuorostaan tahtoo herättää kuulijassa samoja
+vaikutuksia. Hänen tulee itse muistaa ja kuulijan tulee niinikään
+tuntea, että hän, lausuja, on asian ulkopuolella. Eepillistä runoutta
+lukemalla opimme lausumaan selvästi ja tyynesti, mutta samalla totumme
+elävästi esittämään erilaisia tapausten synnyttämiä vaikutuksia.
+Lyhyesti: yksitoikkoisuutta ja liiallista hitautta karttaen tulee
+lausujan, omaa itseänsä koskaan unhottamatta, eepillisen tasaisesti
+esittää vuoroin toimintaa, vuoroin lepoa; hänen tulee luontevan
+levollisesti kertoa yksityisseikkoja, ja taas virkeän voimakkaasti
+seurata toimintaa.
+
+_Kansan-eepoksen Kalevalan_ esityksessä on noudatettava samoja
+sääntöjä, kuin eepillisen runouden esityksessä yleensä. Sitä on
+siis luettava objektiivisesti ja tyynesti. Mutta samalla tulee
+taitavasti tuoda esiin kerto, joka on suomalaiselle kansanrunoudelle
+aivan omituinen. Lukeminen käy sietämättömän yksitoikkoiseksi ja
+väsyttäväksi, ellei kertosäkeitten esitykseen saada eloisuutta ja
+vaihtelevaisuutta. Se, että sama ajatus lausutaan kahdessa tahi
+useammassa säkeessä, osoittaa kiihtymistä, ja sitä on ilmaistava
+kvalitatiivisella painolla sekä tempon ja ääniaseman Vaihtelulla.
+
+Esim.
+
+    Vaka vanha Väinämöinen,
+    Laulaja ijän ikuinen.
+           ———
+    Ojenteli oksiansa,
+    Levitteli lehviänsä,
+    Latva täytti taivahalle,
+    Lehvät ilmoille levisi.
+    Piätti pilvet juoksemasta,
+    Hattarat hasertamasta,
+    Päivän peitti paistamasta,
+    Kuuhuen kumottamasta.
+
+              (Kalevala 2: 80—88.)
+
+    Onpa syytä itkiällä,
+    Vaivoja vetistäjällä,
+    Sitä itken, sisko rukka.
+    Sitä itken ja valitan:
+    Kirpoi kullat kulmiltani,
+    Hopeat hiuksiltani,
+    Sinisilkit silmiltäni,
+    Punanauhat pääni päältä.
+
+              (Kalevala 4: 67—74.)
+
+    Miten on mieli miekkoisien,
+    Autuaallisten ajatus?
+    Niinp' on mieli miekkoisien,
+    Autuaallisten ajatus,
+    Kuin on vellova vetonen
+    Eli aalto altahassa;
+    Mitenpä poloisten mieli,
+    Kuten allien ajatus?
+    Niinpä on poloisten mieli,
+    Niinpä allien ajatus,
+    Kuin on hanki harjan alla,
+    Vesi kaivossa syvässä.
+
+              (Kalevala 4: 197—209.)
+
+    Sitä itken impi rukka,
+    Kaiken aikani valitan,
+    Kun annoit minun poloisen,
+    Oman lapsesi lupasit,
+    Käskit vanhalle varaksi,
+    Ikäpuolelle iloksi,
+    Turvaksi tutisevalle,
+    Suojaksi sopen kululle;
+    Oisit ennen käskenynnä
+    Alle aaltojen syvien,
+    Sisareksi Siikasille,
+    Veikoksi ve'en kaloille;
+    Parempi meressä olla,
+    Alla aaltojen asua
+    Sisarena Siikasilla,
+    Veikkona ve'en kaloilla,
+    Kuin on vanhalla varana,
+    Turvana tutisialla,
+    Sukkahansa suistujalla,
+    Karahkahan kaatujalla.
+
+              (Kalevala 4: 235—254.)
+
+_Antiikkiset_ eepokset ovat luonteeltaan objektiivisia. Niissä eivät
+mietelmät ja tunteet ole monimutkaisesti kutoutuneet toisiinsa,
+vaan toiminta sujuu tasaisen tyynesti. Antiikkista eeposta tulee
+lausua havainnollisen selvästi; äänenmuodostuksessa tulee noudattaa
+plastillista kauneutta, jotta runoelma esiintyisi alkuperäisessä ja
+luontevassa laajuudessaan. Ääni ei saa olla tunteen värittämä; pikemmin
+kuvattakoon runoelman vaikutusta symboolisen painon avulla.
+
+    Siitäkö parkaistaan! — hereää jumalainen Odyssey,
+    Nousee istumahan, ajatellen ympäri päänsä:
+    »Voi polonen, mihin maan ääriin taas joutunu lienen!
+    Lieneekös joku villi, vihollinen, vallaton kansa,
+    Vai hyvä vieraillen, jumaloitakin pelkeäväinen?
+    Impien ääntämisen korvillani vasta ma kuulin, —
+    Metsän-neitojen, joill' on asuntona korkeat vuoret,
+    Tai jokien lähteet, noromaat sekä heinävät alhot, —
+    Vai joko äänteleväin ihmisten maalla ma lienen?
+    — Multapa miks'en käy tiedustelemaan, näkemäänkin.
+
+    Lausunu lähti jo viidastaan jumalainen Odyssey,
+    Hirveä nähtäissänsä, ihollaan piintynyt kuotta;
+    Pois tytöt kaikkosivat eri teillen rantoja myöten;
+    Yksin jäi tytär Alkino'on, urouttap' Athēne
+    Sillen rintahan loi, pelon pois jäsenistäkin otti.
+
+    »Korkea ruhtinatar! joko ihminen vai jumal' ollet; —
+    Jos vainen jumaloit', avaran taivaan asujaita,
+    Niin varmaan sinä Zeun väkevän tytär Artemis lienet.
+    Sen toki muoto sinulla ja varsi ja kasvosi kaunis.
+    Mutta jos ihmisten, maan päällä asuvain, suku sulla,
+    Niin ylen autuas sull' isä onpi ja äitisi armas,
+    Veljesi myös ylen autuahat; sydämmessäpä heillä
+    Loppumatoin ilo hehkuilee sinun kauttasi aina,
+    Nähdessään kukan semmoisen kisatarha'an käyvän;
+    Vaan yli kaikkia muita se mies toki autuas onpi,
+    Ken sinun kiilloillaan suostuttaen vie kotihinsa.
+    Enp' ole vertaistas nähnyt silmilläni vielä,
+    En miest' enkäpä naista, — ma hämmästyn sua varsin.
+
+    Päiviä kakskymment' olin eilen merta ma uinut,
+    Senp' aikaa mua aalto kuletti ja valtava tuuli
+    Saarelt' Ögygian tänne, kuhun loi jumal' äsken,
+    Tääll' uudet kokemaan kovat onnet; loppua viel' en
+    Näe hetikään, paljon jumalat toki hankkivat uutta.
+    Vaan sa nyt armaha', ruhtinatar! muit' en minä tunne
+    Kaupunkinne väestä ja teidän maan asujoista.
+    Neuvo kaupunkiin, jotakin verhokseni anna.
+    Niin sullen suokoot jumalat, mitä mielesi toivoo,
+    Antakohot miehen, perehen, sovun, suosion aina
+    Armaan; eipä parempata, ei kauniimpata liene,
+    Kuin se on, kosk' yksin mielin pitävät taloutta
+    Mies vaimon kera, kyllä suruksi kadehtelioille,
+    Mutta hyvillen iloksi ja itsilleen yli muiden».
+
+_Romanttisessa_ eepoksessa esiintyy eepoksen luonteeseen kuuluvan
+objektiivisyyden ohessa sydämmellisyyttä, tunteen tulta ja usein
+loppusointua. Siitä syystä se on lausuttava toisin kuin antiikkinen
+eepos.
+
+                   Vladimir Suuri.
+
+    Suojassaan komeassa, min seinät ja lattian peitti
+    Peittehet kirjaeltut, mukavasti linnassa loikoi
+    Ruhtinas Novgorodin, verisen sotamelskehen jälkeen.
+    Kultaiset hetuleet sekä purpurasilkkinen päällys
+    Sohvassa kimmoavass' oli, kussapa voittaja huokas'
+    Valtiahan jalan vieressä ol' asu, loistava kilpi,
+    Miekka, mi tylsynyt on, kypär'kin, mi timantteja säihkyi.
+    Purpura-vaatteissaan sinisilmänen poikanen, jonka
+    Tukkaa tuoksuavaa rusoruusut kauniisti, Lesbon
+    Viiniä vaahtoavaa its'valtiahan pani maljaan
+    Seppelöityyn, soreaan. Avataan ovet äkkiä aivan.
+    Valtiahan etehen varustettuna kaks' venäläistä
+    Asteli juhlallisesti, ja toivat nää muassaan myös
+    Noiden pelkäävän — ihanaa ken voi kuvaella?
+    Kaula sen kaunoinen oli, valkea sen somasormet;
+    Huntunen samaten. Siveällä sen rinnalla riippui
+    Ristikin kultainen, kuva sen jumalan, joka kuoli.
+    Pitkin hartioitaan valui sahramikeltainen tukka;
+    Kyynelkasteinen oli poski, ja taivasta kohden
+    Loi rukoellen hän sinisilmän vettynehen nyt.
+    — — — — — — — — Tulisen sotasankarin eessä
+    Seisoi hellänä hän kuin kristin Venus ja itki.
+    Lemmen liekistä leimusi Vladimirin rohkea rinta.
+    Hän oli voitettu; kuin halukkaasti neitisen vartta
+    Hän sorea syleillyt käsivarsin oisi, ja huulin
+    Hehkuvin suudellut pois poskien kosteat helmet;
+    Ei toki rohjennut; viel' vankina, itkiessäänkin
+    On ihanuudella tuo pyhä, taivahan siittämä valta.
+    Ruhtinas Novgorodin nyt sangen hellänä lausui:
+    »Neito sa taivainen, miks' pelkäät? Miksi sä itket?
+    En minä, surmaa suo sinullen. Vladimirta et tunne.
+    Miehiä kärsivän mie näen jäykkänä, mutta mun silmä
+    Impiä itkevät' ei voi katsoa. Poskien helmet
+    Pyyhi ja naura'pas; ilo ei ole voittajan muutoin.
+    Kun sinä huokaat, ah, mun huokuvi rohkea rinta,
+    Polttavi itkusikin sydäntäin tulikuumana aivan.»
+    Vastasi nyt hänellen surumielinen, lempeä vanki:
+    »Ruhtinas Novgorod'in! Jos taistelet, naisia säästäin,
+    Miehiä vastaan vaan, ole, sankari, armias mulle.
+    Heimojen armasten tykö, maall' isien minut päästä.»
+    — — — — — — — — —
+S    »Oi, jos sie tulisit toki, rauhan merkkiä kantain,
+    Kaupunkiin isien, ylevinten kansojen kesken
+    Rauhaa solmeamaan tulevaisia aikoja varten!
+    Kaikki sa tiedä siis, Vladimir, miks' vielä ma piillän?
+    Konstantinōpeli on minun kehtoni. On nimen' Anna.
+    Veljeni onpi Basilius. Valtiopurpura päällään
+    Oivana, suurenakin jalo-istuimella hän istuu,
+    Jonkapa Konstantino jo ammon aikoja sitten
+    Bospor'in rannoillen oli Tiber'in kaltailta vienyt.
+    Ruhtinas Novgorodin, kotihin minun lähteä suokaa!
+    Kullalla, helmilläkin lunastaa minut veljeni voipi.
+    Ei korut kallihit tok' sua, voittava ruhtinas, voita.
+    Suurempi arvostaan kuninkaan — sydämmellesi onpi
+    Arvo ja rakkaus, min' vihamiehet antavat sulle».
+
+                                (Stagnelius.)
+
+Idyllinen eepos liikkuu perhe-elämän ahtaassa piirissä, jonka vuoksi
+runorytmi ja aine vaatii esitystä keskustelukielellä.
+
+                        Hanna.
+
+    — — — — — —
+    Seitsentoistapa-vuotias tuo sydämmestähän nauroi,
+    Kun hän vanhuksen sanoj' aatteli, kuin olis kummaa,
+    Jos tulis vaimoks hän tuon pyylevän, arvosan herran,
+    Rouvana käydä sais vakavaisna. ja istua sohviin.
+    Hetkenpä naurettuaan ja kun palmikon sai sykerölle,
+    Peilihin tarttui hän, kiharaista nyt käänteli päätään,
+    Täynn' ihanuutt', ilomielin peilihin katseli, lausuin:
+    »Luulettenko, Susanna, ett' tämmöisestä hän huolis,
+    Ettekö nää heti kuin typerältä ja nuorelta näytän?
+    Vallaton silmäni, hyi! mua itseäkin pelottaa jo.
+    Tämmöisenkö hän ottais, kun lähi-seudulta varmaan
+    Montakin vanhempaa, älysempätä tyttöä löytää,
+    Siivoja, jotk' ei lakkaamatt' ole nauruhun valmiit.
+    Tottapa muistanee hän, miten läsnä ma peljästyneenä
+    Kirkuen karkasin pois, kun tervehtää piti häntä,
+    Kunnes kellollaan sekä kult'-avaimella hän vihdoin
+    Silmäni käänsi ja näin sylikin mun vietteli hupsun.
+    Vaan mitä kuiluja! viidenkymmenen vanhana hänkö
+    Morsiant' etsis, kosk' elänyt on nuorena yksin.
+    — — — — — — — — — —
+    »Vanha Susanna, nyt virkatkaa, mitä tehdä? Jos täytyy
+    Arvosan herran eessä mun seistä ja hän mua kosjoo,
+    Niin veri poskissain pakahtuu, sydän rinnasta karkaa;
+    Naimist' en näin hirmuiseks ikinäin minä luullut.»
+
+    »Ho, hoo!» vastasi naurain sukkela, vanha Susanna,
+    »Ei nyt pelkurius eik' arkuus, mamseli, kelpaa.
+    Kah, pian muuttuvi kaikk'. Kun häät on ollehet, käskee
+    Miesi, ja nöyr' on vaimo ja sois vaan mieliksi olla;
+    Vaan sitä ennen taas se on hän, joka käskyä antaa.
+    — — — — — — — — — —
+    Menkää siis kuni ruhtinatar, ja kun kammariss' ootte,
+    Herrahan luokaatten töin tuskin silmäys, kunnes
+    Hän syvähän kumartaa, rukoellen suosiotanne.
+    Vaan kun on lausunut hän, mitä on sydämellähän, silloin
+    Katselkaa epäellen vaan, kylm' olkate, aikaa
+    Mietintään anokaa, pois sitten pöyhkänä käykää.
+    Näin hän vanhuuttaan saa miettiä, toivon ja pelvon
+    Vaiheill' olla, ja näin enemmän teiss' arvoa huomaa,
+    Huomaa nöyrtyen nyt, ettei niin suorahan juosta
+    Vanhan helmahan, vaikkapa kuin rikas, mahtava oiskin!
+    Mutta kun nurpeillaan tuo arvosa herra nyt vartoo,
+    Luullen teidän jo hylkäävän hänen tarjoustansa,
+    Istutte täällä te vaan, ei mielessä kieltoa lainkaan,
+    Katsotten ihastuin tulevaisehen onnehen vainen,
+    Kuin taloss' oivassa, joss' on taivahan kaunista kaikki,
+    Te emänt' olla saatte ja, nuorenakin, samass' arvoss'
+    Olla ja yht' isonen kuin herranne, tuo jalo vanhus.»
+
+                                  (J. L. Runeberg.)
+
+
+
+
+Lyyrillinen runouden esitys.
+
+
+Sanoimme että eepillisen runouden lausunnossa kysytään
+objektiivisyyttä, tyyneyttä ja selvyyttä. Lyyrillinen runous taas
+kehittää aistiamme kauniin kokonaisuuden tajuamiseen. Lyyrillistä
+runoa esittäessään tulee lausujan kokonaan antautua runoilijan
+esiintuomien tunteiden ja mielialojen valtaan niin että ne esiintyvät
+ikäänkuin hänen oman sisällisen elämänsä ilmauksena. Tässä kysytään
+äänimuodostuksen ja värityksen varmuutta. Lausujan tulee siis varmasti
+löytää kutakin tunnetta vastaava perusääni ja esittää se totuuden
+mukaisessa ja yksinkertaisessa muodossa, mutta samalla sillä tunteen
+voimalla, jota kukin kappale vaatii.
+
+Esim. Subjektiivista lyriikkaa.
+
+      Kantelettaresta.
+      (Kansan lyriikkaa.)
+
+    Kun mun kultani tulisi,
+    Armahani asteleisi,
+    Tuntisin ma tuon tulosta,
+    Arvoaisin astunnasta,
+    Jos ois vielä virstan päässä,
+    Tahikka kahen takana.
+    Utuna ulos menisin,
+    Savuna pihalle saisin,
+    Kipunoina kiiättäisin,
+    Liekkinä lehauttaisin;
+    Vierten vierehen menisin,
+    Supostellen suun etehen.
+    Tok mie kättä käpseäisin,
+    Vaikk' ois käärme kämmenellä;
+    Tok mie suuta suikkajaisin,
+    Vaikk' ois surma suun eessä;
+    Tok mie kaulahan kapuaisin,
+    Vaikk' ois kalma kaulaluilla;
+    Tok mie vierehen viruisin,
+    Vaikk' ois' vierus verta täynnä.
+    Vaanp' ei ole kullallani
+    Ei ole suu suen veressä,
+    käet käärmehen talissa,
+    Kaula kalman tarttumissa;
+    Suu on rasvasta sulasta,
+    Huulet kun hunajameestä,
+    Käet kultaiset, koriat,
+    Kaula kun kanervan varsi.
+
+                 (Kanteletar II:43.)
+
+
+
+                 Salomaa.
+
+    Yht' ihanaisena kuin sinut kerran näin, olet tuossa
+    Taian luomana taas, kaunoinen salomaa.
+    Taas näen sun, mökin tyynen tuon, kukat, varjovat pensaat,
+    Lammen välkkyävän, vaarat korkeat nuo.
+    Nään sinut ennellään, nään taas tutut, lempeät kasvot,
+    Joit' olen kaivannut kuin kesä lämmintään.
+    Kaikki ma taasen nään: lukemattomat, armahat muistot
+    Kuin kukat kirren alt' elpyvät taas elohon.
+
+    Tuolla ma lammellas olen soudellut useasti,
+    Salmia kierrellyt, kaikua kiusannut;
+    Katsellut sylissäs' olen Vellamon neitosen maata
+    Hurmaavan ihanaa, luokseen viettelevää;
+    Taikkapa, keinuen laineillas, vetes välkkyvän karjan
+    Kietonut verkkoihin, nostanut venheesen.
+    Tuoll' olen vuorellas sen louhistot kapuellut,
+    Noussut kotkan laill' ain' yhä korkeuteen,
+    Noussut ja nähnyt mun pyhän, armaisen isänmaani
+    Niinkuin morsiamen tyynenä loistossaan:
+    Nähnyt auringon alas vaipuvan salmien helmaan,
+    Kultia lähteissään heitellen yli maan,
+    Tai punottain, ujostellen kuin salon impyen nähnyt
+    Kuuttaren kehräävän rihmaa häähamoseen;
+    Tuon olen nähnyt ja siin' useast' olen istunut yöhön,
+    Ääneti istunut vaan, aatoksiss' uneksuin.
+
+    Mut unohtaisinko nuo suloiset, ikimuistoiset hetket
+    Tuolla sun helmassass', seurass' ystävien!
+    Muistoja tuo joka puu, joka kukkainen, joka pensas,
+    Polkusi mutkikkaat, viirisi salkoineen.
+    Istunut tuoll' usein lakan all' olen, hartahin mielin
+    Kuunnellut tarinaa ai'an muinoisen,
+    Nähnyt valtavat hahmot sen, sekä rohkeudella
+    Taas tulevaisuuden verhoa nostellut;
+    Nähnyt kaunoiset unet maalleni, toivonut sille,
+    Toivonut taivasten antimet runsaimmat,
+    Toivonut sille kuun hopeoita ja kultia päivän,
+    Teilleen valkeuden, rauhoa rannoilleen...
+    Niin, mitä toivoinkaan, mitä aattelinkaan, mitä näinkään
+    Tuolla sun helmassas', kukkainen salomaa?
+
+    Kaikki kun taasen nään, on sielullain pyhäpäivä,
+    Valkaistu tupa sen, työn tomut laastut pois,
+    Kaikki on tyyntä ja rauhaisaa, vaan rinta se sykkää,
+    Muiston kellot kun kaukaa kaikuen soi.
+
+                                  (P. Cajander.)
+
+
+
+Mieteruno.
+
+
+Seuraavassa on ajatuksen pathos hallitsevassa asemassa.
+
+                Tervehdysrunoja. III.
+
+    Ihmishenki, valon lapsi, pyrji valon lähteen luo,
+    Säkeniä säihkyviä juo kuin janoovainen juo;
+    Katso toki että valos vaan ei virvatulta lie,
+    Tyhjä valhe valo suolta, joka harhateille vie!
+
+
+    Valo kirkas, valo kaunis, tok' on vaan kuin Alppein jää,
+    Jos se ainoasti loistaa, ei myös taida lämmittää.
+    Lempenä se vast' on oikein säde Luojan loistehen,
+    Tuikahtanut taivahasta lohdutteeksi ihmisen.
+
+
+    Vaikka sull' ois kaikki tieto, maat ja taivaat kirjoissas',
+    Vaikka sull' ois kaikki taito, vuoret noutais' sanojas',
+    Vaikka profeetan ois silmä aikain läpi katsomaan,
+    Enkelinkin sulo ääni, lempi yksin puuttuis vaan —
+
+
+    Ah tok' oisit onsi vaski, kilisevä kulkuinen!
+    Mitätön ois tietos, taitos', turha voimas ihmeinen.
+    Valos hyödyttelemättä ois kuin talvi-aurinko,
+    Ympärilläs kaikk' ois kylmä, synkkä, kolkko, autio!
+
+
+    Lennä valon sätehenä, lämmön kipunana myös,
+    Silloin siunattu on retkes, siunaukseksi sun työs.
+    Mutta huomaa: lämmötöinnä säde käy halk' ilmojen
+    Lämmön saattaa joka säde voi vaan paikkaan yhtehen.
+
+
+    Määräpaikkahas siis riennä, jolle sinut Luoja loi;
+    Sille valo, lämpö saata, ole sille päivän koi.
+    Vaikk' ois ahdas, vaikk' ois pieni, halpa riennä siihen vaan;
+    Näin vaan maailmalle paistat, yhtä paikkaa valistain.
+
+
+    Veljet, valon saattajiksi pyhitetyt, vihityt,
+    Luokaa katse ympärinne, sydämestä katse nyt!
+    Tässä Teili' on luotu paikka, Teidän, Teidän on tää maa —
+    Mutta siis se myöskin Teidät, Teidät aivan omistaa!
+
+
+    Katsokaatte: honka täyttää latvoin taivahille päin,
+    Imee ilmaa, juopi päivää, pilvein kanssa leikittäin;
+    Mut se juuret junttaa maahan, äitiänsä syleilee,
+    Levittääpi laajat oksat, niillä maataan varjelee.
+
+
+    Veljet, aurinkohon asti ylös nostakaatte pää,
+    Mutta sydän-juuret maahan, isänmaahan kiintäkää!
+    Köyhä on se, halpa on se — lempikää sit' enemmin!
+    Köyhäst' äidistään ken luopuu, pettureist' on Ukein.
+
+                                          (Suonio.)
+
+
+
+
+
+Symboolinen lyriikka.
+
+
+Tässä kysytään taitavasti käytettyjä symboolisia painoja.
+
+                     Linnunrata.
+
+    Jo lamppu sammui, kirkasna yö tyyni valaisee,
+    Ja muistot aikain muinaisten taas mieleen liitelee,
+    Ja tarut vienot risteilee, kuin tähdet sinisään,
+    Ja tunne outo, viehkeä saa syömmein sykkimään.
+
+    Talv'yössä tähdet välkkyen maan puoleen katsahtaa,
+    Niin autuaasti hymyillen, kuin synnitöin ois maa —
+    Käsittää voitko lempeää sa kieltä tähtösten?
+    Ma heiltä sadun kuulla sain, sen sulle juttelen.
+
+    Etäisin tähden asukas ol' enkel'-impynen;
+    Toisessa kaukotähdessä sen asui kultanen.
+    Ja kullan nim' on Zulamith ja immen Salami,
+    Ja toisiaan he lempivät niin hellän hellästi.
+
+    Maan päällä yhtä rakkaina he asui muinaisin,
+    Vaan heidät murhe eroitti ja yö ja syntikin,
+    Niin saivat tuonen tyynessä he enkel'-siipyet.
+    Ja eri tähtiin tuomittiin nyt ijäks' poloiset.
+
+    Mut sinisäässä kiihtyi vain tuo lempi taivainen.
+    Välillä heidän avaruus on valoin, tähtien,
+    Tuhannet Luojan ihmetyot ne kultasätehin
+    Välillä loistaa Zulamin ja sulo Salamin.
+
+    Niin Zulamith nyt työhön käy, käy kaihon tuskalla,
+    Ja ilmat liittää ilmoihin hän tähtisillalla. —
+    Ja samaan aikaan tähdestään tuo sulo Salami
+    Maailman toisiin äärikin myös siltaa laativi.
+
+    Heiss' usko järkkymätön on: vuostuhannet työ vie,
+    Niin Linnunrata valmistui, heloitti tähtitie.
+    Mi — kirjaamana otavain — syleilee taivaita
+    Ja avaruuden meressä luo rantaan rantoja.
+
+    Kauhistus valtaa keruubit; he käyvät Luojan luo:
+    »Voi herra, työtä Salamin ja Zulamin on tuo!»
+    Hymyili Luoja vanhurskas, ja taivas säteili: —
+    »En tahdo sitä hajoittaa, min lempi rakensi».
+
+    Ja Salami ja Zulamith, kun silta valmiiks' saa,
+    Toisensa syliin riensivät — ja silloin leimahtaa
+    Uus tähti, taivaan kirkkahin, mi heille hymyili
+    Ja murheet vuosituhanten näin riemuks' kirkasti.
+
+    Ken murehissa kuolon maan vaan lempii hellästi,
+    Ja joskin synti tuonen yön tääll' lemmen sortaisi,
+    Ken vaan voi maasta taivaisiin tien luoda itselleen,
+    Sen lempi ikiloisteen saa, saa rauhaa sydämeen.
+
+                                (Z. Topelius.)
+
+Draaman esitykseen siirryttäessä luetaan _ballaadeja ja romansseja_,
+joissa esiintyy vuoroin eepillisyyttä ja lyyrillisyyttä.
+
+
+    Koskenlaskijan morsiamet.
+
+    »Äl', armas Annani, vaalene,
+    Jos Pyörtäjäkoski pauhaa!
+    Sen voimaa en tosin vallitse,
+    Ei löydä se koskaan rauhaa,
+    Mut kellä sen kaihot tiedoss' on,
+    Niin sille se nöyr' on ja voimaton».
+
+    Näin virkkoi Vilhelmi Annalleen,
+    Ja itsekin purteen astuu,
+    Ja päästi purtensa valloilleen,
+    Sen koskessa laidat kastuu,
+    Ja Pyörtäjän luontoa katsomaan
+    Nyt Vilhelmi vei tätä morsiantaan.
+
+    »Voi, kuinka kirkas on illan kuu,
+    Ja välkkyvä virran kalvo!
+    Ei linnut liiku, ei oks', ei puu,
+    Ei muut kuni tähdet valvo;
+    Voi, kuinka nyt kuolema kaunis ois,
+    Kun kultansa kanssa nyt kuolla vois!»
+
+    Näin Anna äänteli hiljalleen,
+    Sen silmähän kyynel entää;
+    Mut koski se kiihtyvi eellehen,
+    Sen voimassa venhe lentää;
+    Vaan Vilho on oppinut laskemaan,
+    Tää kulku se on hänen riemujaan.
+
+    Jo laski poikana purressaan
+    Hän Lyyjoen kaikki kosket,
+    Useinpa Pyörtäjä kuohuillaan
+    Se kasteli hältä posket;
+    Ei paatoa löytynyt yhtäkään,
+    Jot' ei olis tottunut välttämään.
+
+    Mut kosken kuumassa kuohussa,
+    Juur' jossa sen juoksu suorin,
+    On, päällä vaahtinen vaippansa,
+    Yks' Ahtolan neito nuorin;
+    Se Vellamon karjoja paimentaa,
+    Ja koskien kuohua katsastaa.
+
+    Sydän on Vellamon neidollai
+    Sen vaahtisen vaipan alla,
+    Ja lemmen liekki se aallossai
+    Voi syttyä niinkuin maalla;
+    Ja Vilhoa neitonen Vellamon
+    Jo katsellut kauan ja liioin on.
+
+    Ja tuostapa neitosen rintahan
+    On syttynyt outo mieli,
+    Povensa kuulevi huokaavan,
+    Mut kertoa ei voi kieli;
+    Hän kuohujen keskehen istuksen,
+    Siin' ainakin Vilhoa vuotellen.
+
+    Niin Vilhon venhe nyt kiiruhtaa,
+    Kuin Pohjolan vankin myrsky,
+    Se kons' on aaltojen harjalla,
+    Kons' yltäkin käypi hyrsky;
+    Mut itse perässä hän pelvott' on,
+    Vaan Annasen poski on ruusuton.
+
+    Ilolla Vellamon neitonen
+    Sen vastahan uida täyttää:
+    »Se Vilho tuo on! Mut toinen ken,
+    Jok' immeltä silmään näyttää? —
+    Voi, voi mua, Vellamon neitonen,
+    Sill' onpi jo kultana ihminen!»
+
+    Jo päättää Vellamon neitonen
+    Nyt toivonsa turhan kostaa,
+    Ja kosken pohjasta paatosen
+    Hän äkkiä pintaan nostaa,
+    Johon vene Vilhelmin loukahtaa,
+    Ja hän kera kultansa kuolon saa.
+
+    Vaan suussa Pyörtäjän vieläkin
+    On Vellamon neidon paasi,
+    Se paasi, jolla hän Vilhelmin
+    Veneen sekä onnen kaasi;
+    Mut neitosen itsensä kerrotaan
+    Meressä murehtivan rakkauttaan.
+
+                        (A. Oksanen.)
+
+
+
+
+Draaman esitys.
+
+
+Draaman esitys on vaikein kaikista. Siinä kysytään suurinta
+aaterikkautta ja vaihtelevaisuutta, sillä draaman esittäjän tulee luoda
+eteemme elävänä kokonainen maailma erilaisia ja täysin kehittyneitä
+henkilötä. Näin ollen draamaan sisältyy sekä eepillinen että
+lyyrillinen runous.
+
+Draaman esityksessä vasta kysytään itsensä unhottamisen taitoa ja
+hengen nuorteutta. Henkilö, jolla on runsaat äänivarat sekä syvä ja
+vilpitön tunne-elämä ja joka vielä lisäksi on taiteellisesti kehittänyt
+puhelahjansa, pystyy kyllä hyvin, jopa oivallisestikin lausumaan
+eepillisiä ja lyyrillisiä runoelmia, mutta tämäkään taito ei riitä
+vielä draamallisten teosten esittämiseen, sillä tässä kysytään kykyä
+muuttua toiseksi henkilöksi, tuntea toisen tunteita, elää toisen elämää.
+
+Se, jolla ei ole mielikuvituksen voimaa ja vilkkautta, voidakseen
+silmänräpäyksessä asettua toisen henkilön kannalle ja kyetäksensä
+säilyttämään sydämessään hänen tunteensa niin että oma yksilöllisyys
+kokonaan unhottuu, ei voi milloinkaan oikein esittää draamaa. Draaman
+esittäjä, jolta tämä lahja puuttuu, herättää kuulijassa ainoastaan
+lyyrillisiä vaikutuksia.
+
+Tätä taitoa saavuttaakseen tulee ensin tutkia yksityisten henkilöitten
+luonteita, sitten kokonaisia teoksia. Näyttelijä esim. silloin vasta
+voipi arvostella mitä hän pystyy esittämään ilman naamioimisen, puvun
+sekä muiden ulkonaisten keinojen apua; silloin hänen täytyy turvata
+yksinomaan ääneen ja runolliseen kuvaamistaitoonsa. Se, joka tätä
+menettelytapaa noudattamalla ahkerasti harjoittelee lausuntoa, tottuu
+vähitellen käsittämään draamojen erilaisia luonteita ja lukemaan
+kirjasta.
+
+Valitettavasti on paljon näyttelijöitä, jotka näyttämöllä saattavat
+esittää jonkun osan niin että yleisö luulee heitä taiteilijoiksi,
+mutta, jos heidän tulee lukea sama osa kirjasta, turvaten ainoastaan
+omaan kuvausvoimaansa, ääneensä ja runolliseen käsityskykyynsä,
+esiintyvät taitamattomina runouden rääkkääjinä.
+
+Lausuja älköön yrittäkö täydellisesti matkia henkilöjen ääntä. Mies
+esim. älköön koettako, paitsi koomillisissa osissa, lukea naisen
+äänellä, sillä se kuuluu naurettavalta. Taiteellinen lausuja kuvaa eri
+henkilöitä kvalitatiivisen perusäänen avulla; s.o. kvalitatiivisen
+äänensävyn avulla meidän tulee erottaa toisistaan esim. Porzia ja
+Norissa, kuningatar ja Ofelia, Goneril ja Cordelia, Leontes ja
+Eurysakes, Cassius ja Brutus j.n.e. Eri äänenväritystä, jolla hyvä
+lukija kuvaa draaman henkilöitä, saattaisimme verrata samalta pinnalta
+kohoaviin ja toistensa yhteydessä oleviin korkokuviin, jota vastoin
+henkilöt näyttämöllä esiintyvät ikäänkuin irtonaisina, vapaina
+veistokuvina.
+
+Aleksandriinissa täytyy rytmin kauniisti sointua, mutta sisällyksen
+hallita; muuten diaeresi tulee pääasiaksi ja loogillinen paino ja
+tunteiden hienot vaihtelut häviävät. Suuri, ylevä indignatiooni ja viha
+vaatii pontevuutta, eikä siis liian nopeaa temppoa, vaan mahtavaa,
+suurenmoista kiihtymistä.
+
+
+                   Regina von Emmeritz.
+
+                          Kuningas.
+
+    Herjaajat häijyt, joill'ˇ on käärmeen myrkky kiellä!
+    Kuink' kauan | saastuttaa ˇ te saatte maata vielä?
+    Kautt' taivaan! Paljon näin. Näin usein murhaajia, |
+    Näin sielun varkaita | ja kansain sortajia.
+    Myös ihmiskunnian | sain myrkyttäjiä nähdä;
+    Opista Kristuksen, näin, ˇ pilkkaa voidaan tehdä —
+    Mut tikaria | viel' ˇ en nähnyt murhaajan,
+    Jonk' kärjessä, kuin tään, on kuva Jumalan.
+    Mit olen? Tomu! Niin, ˇ mut lähettiläs Herran,
+    Se miekka, jolla tuo ˇ hän tahtons ilmi kerran,
+    Sorrettuin oikeus | ja tunto Europan, —
+    Kuin mittaisitte te, nyt teille mittajan; ||
+    Kuink' armahdin teit' ain! Niin eivät Turkkilaiset
+    Lutherilaisillen | lie ˇ olleet petomaiset,
+    Kuin te. Niin kauas kuin nään, heitä poltatten;
+    Ma kärsin sitä, kun ˇ sa, Herra, kärsit sen!
+    Sa yksin kostaa sait, ma pysyin tyynenä.
+    Rikosta, petosta | ma maksoin lemmellä.
+    Nyt mitta täysi on. Jos Huss | sai kostajaa, |
+    Niin viel ei kostettu ˇ oo Savonarolaa.
+    Voimaani vapise, sa Babylonin portto,
+    Kopea Rooma sa! Sun valtaas uhkaa sorto,
+    Kautt' taivaan murran sun! Ma sua vainoan ˇ
+    Maailman loppuhun! Sun maasta juuritan.
+
+                         (Z. Topelius.)
+
+Antiikkista draamaa lukiessa tulee tuoda esille draaman suuret
+piirteet, joiden ilmauksina ovat säännyllisyys, loisto ja sopusointu;
+kiihkeimpiä tunteenpurkauksiakin esitettäessä tulee rytmin laajasti
+sointua. Yksityisseikkoja ei saa liian huomattavasti kuvata, sillä
+se häiritsee antiikkista ylevää levollisuutta ja soveltuu ainoastaan
+uudenaikaisissa näytelmissä, joiden koko luonteessa ilmestyy
+hermostunut levottomuus.
+
+Ellemme ole oppineet käyttämään portamentoa, emme milloinkaan voi
+esittää tuota selvyyttä, ylevyyttä ja ihanteellista tyyneyttä, joka on
+antiikille omituinen. Sen, joka puhuu eli lukee muinaisajan draamaa
+samalla vauhdilla, kuin tavallista 5-polvista jambimittaa, on mahdoton
+herättää oikeata tunnelmaa.
+
+
+            Salamiinin kuninkaat.
+
+                  Leontes.
+
+    Ei ollut, isä, koska vasten nuhdettas ˇ
+    Mun täytyy itsen' puolustaa, ei ollutkaan ˇ
+    Niin ahdas katseeni | koin luulevan sa näyt.
+    Ma pientä näin, näin suurta myös, vaikk' en ˇ
+    Ain' ihmisjoukossa, joss' usein käskyjä ˇ
+    Jumalten | peittää mutkat mielten sokeain.
+    Mä näin, mit' itse näkisit, jos silmäsi |
+    Sä loisit avaruuteen, maihin, merihin |
+    Ja päivän sulouteen, tyyneyteen yön |
+    Ja tähtiin ijänikuisiin, tai kukkaisiin, ˇ
+    Jotk' aamuin syntyvät | ja illoin kuihtuvat.
+    Mä järjestyksen pyhän | ynnä lujan lain |
+    Näin kaikessa, niin pienessä | kuin suuressa.
+    Ratansa tunsi tähti, taivaan vahvuus | ei ˇ
+    Se murtain maahan laskennat, ei janoissaan ˇ
+    Maa | niellyt merta | eikä meri näljissään ˇ |
+    Oo syönyt maata; kukkanen sen rannalla |
+    Rauhallisesti kasvoi aaltoin kuohussa.
+    Niin Zeuskin järjestää, niin oikeudella ˇ |
+    Hän heikkoin kohtalotkin aina perustaa |
+    Ja tyttärensä ain' on hänen rinnallaan,
+    Tuo Diike-jumalatar, kova, totinen;
+    Ja häneen | Zeus | luo ensin tarkan silmänsä.
+    Jos kasvons' ovat kirkkaat, Zeuskin hymyilee |
+    Ja loistaa laupeasti | niinkuin aurinko.
+    Jos silmät Diiken synkiks käy, niin vihoissaan ˇ
+    Zeus murtaa kansat, kaupungit, joiss' ompi vaan ˇ
+    Rikottu Diiken laki, vääryys vallitsee. |
+    Mit' ihmislapsi kerskaa tarkoituksestaan,
+    Jos halveksii tiellensä tulleit' esteitä?
+    Hän taitaneeko jumaloiden vaa'alla ˇ
+    Jokaista asiata | oikein punnita?
+    Ja tietääkö hän edes sokeudessaan ˇ
+    Kun kouran santaa koskemahan sattuu hän,
+    Ett' estänyt ehk' on se vierimistä maan?
+    Jos kohta on hän jalointakin aikonut |
+    Ja vilpitönnä päässyt päähän toivonsa,
+    Ain' oliko se onneksensa? Eikö hän ˇ
+    Monasti pettynyt | kuin unen näössä;
+    Samoin kuin lapsi, joka juoksee vuorelle ˇ
+    Syleilemähän ruskoa, mi usm' on vaan?
+    Ja tuohon tuntemattomahan määrähän,
+    Jok' ompi aivan toista saavutettuna,
+    Myös vääryydenkin tietä | rientää ihminen |
+    Ja päähän päästä | koittaa vaikka syyllisnä!
+
+                          (J. L. Runeberg.)
+
+
+
+
+Kuinka draamassa esiintyvä kertomus on lausuttava näyttämöltä.
+
+
+Tästä ei voida antaa yleisiä, abstraktisia sääntöjä. Huomautamme
+ainoastaan että samalla kuin näyttelijän tulee esittää kerrottavansa
+ohimenneenä tapahtumana, tulee hänen loihtia tapaus elävänä ja
+todenmukaisena kuulijan silmäin eteen; hän ei saa kuvailla ainoastaan
+erityiskohtia, vaan yksityispiirteiden tulee esiintyä elävänä
+kokonaiskuvana.
+
+Tämän yleissäännön selitykseksi saakoot tässä sijansa muutamat ohjeet
+eräitten eniten tunnettujen draamallisten kertomusten ymmärtämiseksi.
+
+Raoul »Orleans'in Neitsyeessä» kertoo ensimmäisestä voitosta, jonka
+tappioihin tottuneet ranskalaiset saivat sankarillisen neitsyeen
+johtamina.
+
+Ensinnäkin tulee kertojan muistaa, että hän puhuu _kuninkaalle_.
+Toiseksi: hän ei saa esiintyä ainoastaan lähettilään tavoin, joka
+tuopi tietoja sotapäällikölle, vaan kuulijan tulee tuntea, että hän
+itse syvästi käsittää tuomansa ilosanoman merkityksen. Kuumaverisenä
+ranskalaisena hän ei saa salata sitä riemun tunteiden tulta, jonka
+voitto on hänessä saanut syttymään, mutta hänen tulee kuitenkin
+huolellisesti karttaa kiihkoisia tunteen purkauksia. Hetken
+juhlallisuus luopi leimansa hänen kertomukseensa. Hänen tulee suurissa
+piirteissä kuvata pelastavaa neitsyttä, karttaen deklamoimista.
+Kertomus vaikuttaa syvästi jos esittäjä pystyy aikaansaamaan
+psykoloogista kiihtymistä. Hän alkaa arastellen, mutta kertomuksen
+kuluessa hän unohtaa loistavan ympäristön ja innostuu, yhä kuitenkin
+koettaen hillitä tunteitaan, kunnes lopussa pääsee valtaan ylpeä
+voittoriemu.
+
+Toisenlaatuinen on Lady Milfordhn kertomus Schillerin »Kavaluus
+ja rakkaus» -nimisessä näytelmässä. Hän ilmaisee entisen elämänsä
+vaiheet, jotka hän vuosikausia on pitänyt salaisuutenaan. Hänen
+on vaikea sanoa sanottavaansa, hän taistelee ylpeyttänsä vastaan
+paljastaessaan elämänsä varjopuolet miehelle, jota hän rakastaa,
+mutta samalla hän hyvin ymmärrettävällä itsetunnolla tuopi esille
+olentonsa syvyydessä piilevän puhtaan inhimillisyyden, jota hän ei
+hetkeksikään ole kadottanut. Hänen kertomustaan ei saata esittää
+kyllin yksinkertaisesti. Siinä ei saa esiintyä pienintäkään piirrettä,
+joka vivahtaisi miellyttämisen haluun, ja kertomus on kerrottava
+äänellä, joka tunkeutuu sydämmeen ja puhuu totuuden korutonta kieltä,
+mutta samalla siinä on esiintyvä mieltä vihlova liikutus ja osanotto
+kärsineen kovaan kohtaloon. Esityksen tulee vaikuttaa niin että sekä
+Ferdinandissa että kuulijassa syntyy varma vakaumus siitä, että Lady
+Milford, vaikka hänen suhteensa ruhtinaaseen onkin ollut epäiltävä,
+kuitenkin on säilyttänyt sisimmän olemuksensa tahratonna. Äänen sävy
+on oleva niin vilpitön, että kuulija saattaa täysin käsittää, miksi
+Ferdinand horjuu ja miksi kertomus syvästi järkähyttää hänen mieltään.
+
+Vielä tulee meidän sanoa muutama sana n.s. symboolisesta kertomuksesta,
+joka sadun tahi allegorian varjoon kätkee syvän totuuden.
+
+Esim. »Nathan Viisaan» kertomus kolmesta sormuksesta on esitettävä
+yksinkertaisen ylevästi. Vaikka tämä kertomus tuntuu hetken innostuksen
+tuottamalta runolliselta sadulta, tulee lausunnossa esiintyä Nathanin
+selvä tajunta siitä, että satuun kätkeytyy syvä aate. Kertomuksen tulee
+päättyä ylevään profeetalliseen innostukseen.
+
+Antiikkisen draaman alalta mainittakoon Tekmessan kertomus Runebergin
+»Salamiinin kuninkaista». Ylevä, suuri alistuvaisuus, ihmisen
+taipuminen jumalien tahdolle määrää äänen ja tempon laadun. Kuulijan
+tulee kaiken aikaa tuntea, että kertoja on _sankaripuoliso ja
+sankariäiti_. Silloinkin kuin tuska riehuu tuimimpana, hän säilyttää
+jalon arvokkaisuutensa. Vaikka kuulemme että hän on »elon katkeruuden
+pohjaan vajonnut», ei kertomuksessa saa esiintyä hentomielistä
+vaikeroimista, sillä Tekmessa ei ole mikään nykyajan arkipäiväinen
+olento. Omia kärsimyksiään hän ei tahdo kertoa, säälin herättäminen
+omaa itseänsä kohtaan ei ole hänen tarkoituksensa; hän lausuu:
+»murheeni jätän kertomatta, kenkään ei mun yksin jääneen kyyneleitä
+nähnynnä, ei valitusta huuliltani lähtenyt». Syvintäkin epätoivoa
+ilmaisevissa kohdissa tulee antiikkisen levollisuuden vallita ja rytmin
+kohota sekä laskeutua suurina, laajoina sävelaaltoina. Samalla kuin
+kerrotaan tapaukset havainnollisen elävästi, tulee kuulijan tuntea että
+Tekmessa on kestänyt taistelunsa ja kohonnut tuskiensa hallitsijaksi.
+Hän kaipaa ainoastaan varmaa tietoa Eurysakeen kuolemasta, saadakseen
+täydellisen rauhan. Kuninkaan ja sankarin puolisona häntä masentaa se
+ajatus, että Eurysakes olisi »orjana ja vihollisten pilkan alaisena».
+Kuullessaan poikansa kuolleeksi hän sanoo: »ei mua murheet paina,
+kuollut on Eurysakes». Voittoisalla ihanteellisuudella hän kantaa
+kärsimyksensä, jonka vuoksi Leontes huudahtaa:
+
+                   Kuink' alttiisti,
+    Jalosti astut, itse huolen alainen,
+    Lievittämähän muitten huolia! Mist' on
+    Se suuri taito sulia, muitten haavoja
+    Omilla kärsimisilläsi parantaa,
+    Sen kukan lailla, joka taitettunakin
+    Suloisen tuoksun vielä meille lahjoittaa?
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75715 ***
