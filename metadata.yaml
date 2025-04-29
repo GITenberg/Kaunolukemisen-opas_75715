@@ -1,5 +1,8 @@
 _repo: Kaunolukemisen-opas_75715
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Avellan, Kaarola
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58115
     wikipedia: https://fi.wikipedia.org/wiki/Kaarola_Avellan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75715#Kaunolukemisen-opas
 gutenberg_issued: '2025-03-25'
 gutenberg_type: Text
 identifiers:
